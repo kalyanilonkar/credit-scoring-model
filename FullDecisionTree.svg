@@ -1,0 +1,1959 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6198pt" height="805pt" viewBox="0.00 0.00 6197.76 804.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 800.8)">
+<title>Tree</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-800.8 6193.76,-800.8 6193.76,4 -4,4"/>
+<!-- 0 -->
+<g id="node1" class="node">
+<title>0</title>
+<path fill="#ffffff" stroke="black" d="M4606.75,-796.8C4606.75,-796.8 4435.01,-796.8 4435.01,-796.8 4429.01,-796.8 4423.01,-790.8 4423.01,-784.8 4423.01,-784.8 4423.01,-750.4 4423.01,-750.4 4423.01,-744.4 4429.01,-738.4 4435.01,-738.4 4435.01,-738.4 4606.75,-738.4 4606.75,-738.4 4612.75,-738.4 4618.75,-744.4 4618.75,-750.4 4618.75,-750.4 4618.75,-784.8 4618.75,-784.8 4618.75,-790.8 4612.75,-796.8 4606.75,-796.8"/>
+<text text-anchor="start" x="4431.01" y="-780.2" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 43.76</text>
+<text text-anchor="start" x="4471.27" y="-763.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3894</text>
+<text text-anchor="start" x="4474" y="-746.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node">
+<title>1</title>
+<path fill="#eda774" stroke="black" d="M4069.69,-702.4C4069.69,-702.4 3936.07,-702.4 3936.07,-702.4 3930.07,-702.4 3924.07,-696.4 3924.07,-690.4 3924.07,-690.4 3924.07,-656 3924.07,-656 3924.07,-650 3930.07,-644 3936.07,-644 3936.07,-644 4069.69,-644 4069.69,-644 4075.69,-644 4081.69,-650 4081.69,-656 4081.69,-656 4081.69,-690.4 4081.69,-690.4 4081.69,-696.4 4075.69,-702.4 4069.69,-702.4"/>
+<text text-anchor="start" x="3932.07" y="-685.8" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 0.5</text>
+<text text-anchor="start" x="3953.27" y="-669" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3009</text>
+<text text-anchor="start" x="3951.33" y="-652.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0-&gt;1</title>
+<path fill="none" stroke="black" d="M4422.54,-749.06C4327.61,-732.12 4185.1,-706.7 4093.04,-690.28"/>
+<polygon fill="black" stroke="black" points="4093.74,-686.85 4083.28,-688.54 4092.51,-693.74 4093.74,-686.85"/>
+<text text-anchor="middle" x="4096.09" y="-704.58" font-family="Helvetica,sans-Serif" font-size="14.00">True</text>
+</g>
+<!-- 90 -->
+<g id="node91" class="node">
+<title>90</title>
+<path fill="#55abe9" stroke="black" d="M4871.69,-702.4C4871.69,-702.4 4738.07,-702.4 4738.07,-702.4 4732.07,-702.4 4726.07,-696.4 4726.07,-690.4 4726.07,-690.4 4726.07,-656 4726.07,-656 4726.07,-650 4732.07,-644 4738.07,-644 4738.07,-644 4871.69,-644 4871.69,-644 4877.69,-644 4883.69,-650 4883.69,-656 4883.69,-656 4883.69,-690.4 4883.69,-690.4 4883.69,-696.4 4877.69,-702.4 4871.69,-702.4"/>
+<text text-anchor="start" x="4734.07" y="-685.8" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 0.5</text>
+<text text-anchor="start" x="4759.16" y="-669" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 885</text>
+<text text-anchor="start" x="4758" y="-652.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 0&#45;&gt;90 -->
+<g id="edge90" class="edge">
+<title>0-&gt;90</title>
+<path fill="none" stroke="black" d="M4608.8,-738C4642.46,-727.04 4680.89,-714.54 4714.75,-703.52"/>
+<polygon fill="black" stroke="black" points="4715.71,-706.89 4724.14,-700.47 4713.55,-700.24 4715.71,-706.89"/>
+<text text-anchor="middle" x="4714.24" y="-718.08" font-family="Helvetica,sans-Serif" font-size="14.00">False</text>
+</g>
+<!-- 2 -->
+<g id="node3" class="node">
+<title>2</title>
+<path fill="#ea9b62" stroke="black" d="M2778.38,-608C2778.38,-608 2607.38,-608 2607.38,-608 2601.38,-608 2595.38,-602 2595.38,-596 2595.38,-596 2595.38,-561.6 2595.38,-561.6 2595.38,-555.6 2601.38,-549.6 2607.38,-549.6 2607.38,-549.6 2778.38,-549.6 2778.38,-549.6 2784.38,-549.6 2790.38,-555.6 2790.38,-561.6 2790.38,-561.6 2790.38,-596 2790.38,-596 2790.38,-602 2784.38,-608 2778.38,-608"/>
+<text text-anchor="start" x="2603.38" y="-591.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 182.158</text>
+<text text-anchor="start" x="2643.27" y="-574.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 2551</text>
+<text text-anchor="start" x="2641.33" y="-557.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1-&gt;2</title>
+<path fill="none" stroke="black" d="M3923.88,-666.63C3699.73,-650.82 3059.29,-605.64 2801.92,-587.49"/>
+<polygon fill="black" stroke="black" points="2802.42,-584.02 2792.2,-586.81 2801.93,-591 2802.42,-584.02"/>
+</g>
+<!-- 71 -->
+<g id="node72" class="node">
+<title>71</title>
+<path fill="#fcf1e8" stroke="black" d="M4069.69,-608C4069.69,-608 3936.07,-608 3936.07,-608 3930.07,-608 3924.07,-602 3924.07,-596 3924.07,-596 3924.07,-561.6 3924.07,-561.6 3924.07,-555.6 3930.07,-549.6 3936.07,-549.6 3936.07,-549.6 4069.69,-549.6 4069.69,-549.6 4075.69,-549.6 4081.69,-555.6 4081.69,-561.6 4081.69,-561.6 4081.69,-596 4081.69,-596 4081.69,-602 4075.69,-608 4069.69,-608"/>
+<text text-anchor="start" x="3932.07" y="-591.4" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 4.5</text>
+<text text-anchor="start" x="3957.16" y="-574.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 458</text>
+<text text-anchor="start" x="3951.33" y="-557.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 1&#45;&gt;71 -->
+<g id="edge71" class="edge">
+<title>1-&gt;71</title>
+<path fill="none" stroke="black" d="M4002.88,-643.72C4002.88,-636.17 4002.88,-627.87 4002.88,-619.83"/>
+<polygon fill="black" stroke="black" points="4006.38,-619.86 4002.88,-609.86 3999.38,-619.86 4006.38,-619.86"/>
+</g>
+<!-- 3 -->
+<g id="node4" class="node">
+<title>3</title>
+<path fill="#edaa79" stroke="black" d="M2015.75,-513.6C2015.75,-513.6 1844.01,-513.6 1844.01,-513.6 1838.01,-513.6 1832.01,-507.6 1832.01,-501.6 1832.01,-501.6 1832.01,-467.2 1832.01,-467.2 1832.01,-461.2 1838.01,-455.2 1844.01,-455.2 1844.01,-455.2 2015.75,-455.2 2015.75,-455.2 2021.75,-455.2 2027.75,-461.2 2027.75,-467.2 2027.75,-467.2 2027.75,-501.6 2027.75,-501.6 2027.75,-507.6 2021.75,-513.6 2015.75,-513.6"/>
+<text text-anchor="start" x="1840.01" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 34.48</text>
+<text text-anchor="start" x="1880.27" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 1362</text>
+<text text-anchor="start" x="1878.33" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>2-&gt;3</title>
+<path fill="none" stroke="black" d="M2595.08,-565.96C2452.53,-548.69 2188.47,-516.71 2039.51,-498.68"/>
+<polygon fill="black" stroke="black" points="2039.96,-495.2 2029.61,-497.48 2039.11,-502.15 2039.96,-495.2"/>
+</g>
+<!-- 46 -->
+<g id="node47" class="node">
+<title>46</title>
+<path fill="#e78b49" stroke="black" d="M2797.85,-513.6C2797.85,-513.6 2587.92,-513.6 2587.92,-513.6 2581.92,-513.6 2575.92,-507.6 2575.92,-501.6 2575.92,-501.6 2575.92,-467.2 2575.92,-467.2 2575.92,-461.2 2581.92,-455.2 2587.92,-455.2 2587.92,-455.2 2797.85,-455.2 2797.85,-455.2 2803.85,-455.2 2809.85,-461.2 2809.85,-467.2 2809.85,-467.2 2809.85,-501.6 2809.85,-501.6 2809.85,-507.6 2803.85,-513.6 2797.85,-513.6"/>
+<text text-anchor="start" x="2583.92" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.888</text>
+<text text-anchor="start" x="2643.27" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 1189</text>
+<text text-anchor="start" x="2641.33" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 2&#45;&gt;46 -->
+<g id="edge46" class="edge">
+<title>2-&gt;46</title>
+<path fill="none" stroke="black" d="M2692.88,-549.32C2692.88,-541.77 2692.88,-533.47 2692.88,-525.43"/>
+<polygon fill="black" stroke="black" points="2696.38,-525.46 2692.88,-515.46 2689.38,-525.46 2696.38,-525.46"/>
+</g>
+<!-- 4 -->
+<g id="node5" class="node">
+<title>4</title>
+<path fill="#ea985e" stroke="black" d="M1376.69,-419.2C1376.69,-419.2 1257.07,-419.2 1257.07,-419.2 1251.07,-419.2 1245.07,-413.2 1245.07,-407.2 1245.07,-407.2 1245.07,-372.8 1245.07,-372.8 1245.07,-366.8 1251.07,-360.8 1257.07,-360.8 1257.07,-360.8 1376.69,-360.8 1376.69,-360.8 1382.69,-360.8 1388.69,-366.8 1388.69,-372.8 1388.69,-372.8 1388.69,-407.2 1388.69,-407.2 1388.69,-413.2 1382.69,-419.2 1376.69,-419.2"/>
+<text text-anchor="start" x="1253.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 6.5</text>
+<text text-anchor="start" x="1271.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 707</text>
+<text text-anchor="start" x="1265.33" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>3-&gt;4</title>
+<path fill="none" stroke="black" d="M1831.73,-468.61C1712.21,-450.59 1512.43,-420.48 1400.11,-403.55"/>
+<polygon fill="black" stroke="black" points="1400.76,-400.1 1390.35,-402.07 1399.71,-407.03 1400.76,-400.1"/>
+</g>
+<!-- 31 -->
+<g id="node32" class="node">
+<title>31</title>
+<path fill="#f2be99" stroke="black" d="M1996.3,-419.2C1996.3,-419.2 1863.46,-419.2 1863.46,-419.2 1857.46,-419.2 1851.46,-413.2 1851.46,-407.2 1851.46,-407.2 1851.46,-372.8 1851.46,-372.8 1851.46,-366.8 1857.46,-360.8 1863.46,-360.8 1863.46,-360.8 1996.3,-360.8 1996.3,-360.8 2002.3,-360.8 2008.3,-366.8 2008.3,-372.8 2008.3,-372.8 2008.3,-407.2 2008.3,-407.2 2008.3,-413.2 2002.3,-419.2 1996.3,-419.2"/>
+<text text-anchor="start" x="1859.46" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DEROG ≤ 0.5</text>
+<text text-anchor="start" x="1884.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 655</text>
+<text text-anchor="start" x="1878.33" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 3&#45;&gt;31 -->
+<g id="edge31" class="edge">
+<title>3-&gt;31</title>
+<path fill="none" stroke="black" d="M1929.88,-454.92C1929.88,-447.37 1929.88,-439.07 1929.88,-431.03"/>
+<polygon fill="black" stroke="black" points="1933.38,-431.06 1929.88,-421.06 1926.38,-431.06 1933.38,-431.06"/>
+</g>
+<!-- 5 -->
+<g id="node6" class="node">
+<title>5</title>
+<path fill="#eda775" stroke="black" d="M837.6,-324.8C837.6,-324.8 682.16,-324.8 682.16,-324.8 676.16,-324.8 670.16,-318.8 670.16,-312.8 670.16,-312.8 670.16,-278.4 670.16,-278.4 670.16,-272.4 676.16,-266.4 682.16,-266.4 682.16,-266.4 837.6,-266.4 837.6,-266.4 843.6,-266.4 849.6,-272.4 849.6,-278.4 849.6,-278.4 849.6,-312.8 849.6,-312.8 849.6,-318.8 843.6,-324.8 837.6,-324.8"/>
+<text text-anchor="start" x="678.16" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 83.34</text>
+<text text-anchor="start" x="714.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 359</text>
+<text text-anchor="start" x="708.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4-&gt;5</title>
+<path fill="none" stroke="black" d="M1244.63,-377.02C1146.88,-360.8 972,-331.79 861.16,-313.4"/>
+<polygon fill="black" stroke="black" points="861.91,-309.98 851.47,-311.79 860.76,-316.88 861.91,-309.98"/>
+</g>
+<!-- 20 -->
+<g id="node21" class="node">
+<title>20</title>
+<path fill="#e78a47" stroke="black" d="M1414.06,-324.8C1414.06,-324.8 1219.7,-324.8 1219.7,-324.8 1213.7,-324.8 1207.7,-318.8 1207.7,-312.8 1207.7,-312.8 1207.7,-278.4 1207.7,-278.4 1207.7,-272.4 1213.7,-266.4 1219.7,-266.4 1219.7,-266.4 1414.06,-266.4 1414.06,-266.4 1420.06,-266.4 1426.06,-272.4 1426.06,-278.4 1426.06,-278.4 1426.06,-312.8 1426.06,-312.8 1426.06,-318.8 1420.06,-324.8 1414.06,-324.8"/>
+<text text-anchor="start" x="1215.7" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.8</text>
+<text text-anchor="start" x="1271.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 348</text>
+<text text-anchor="start" x="1265.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 4&#45;&gt;20 -->
+<g id="edge20" class="edge">
+<title>4-&gt;20</title>
+<path fill="none" stroke="black" d="M1316.88,-360.52C1316.88,-352.97 1316.88,-344.67 1316.88,-336.63"/>
+<polygon fill="black" stroke="black" points="1320.38,-336.66 1316.88,-326.66 1313.38,-336.66 1320.38,-336.66"/>
+</g>
+<!-- 6 -->
+<g id="node7" class="node">
+<title>6</title>
+<path fill="#fefcfa" stroke="black" d="M516.32,-230.4C516.32,-230.4 299.44,-230.4 299.44,-230.4 293.44,-230.4 287.44,-224.4 287.44,-218.4 287.44,-218.4 287.44,-184 287.44,-184 287.44,-178 293.44,-172 299.44,-172 299.44,-172 516.32,-172 516.32,-172 522.32,-172 528.32,-178 528.32,-184 528.32,-184 528.32,-218.4 528.32,-218.4 528.32,-224.4 522.32,-230.4 516.32,-230.4"/>
+<text text-anchor="start" x="295.44" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">reason__REASON_HomeImp ≤ 0.5</text>
+<text text-anchor="start" x="366.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 62</text>
+<text text-anchor="start" x="356.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5-&gt;6</title>
+<path fill="none" stroke="black" d="M669.69,-270.92C626.6,-259.61 574.42,-245.92 528.03,-233.74"/>
+<polygon fill="black" stroke="black" points="529.01,-230.38 518.45,-231.22 527.23,-237.15 529.01,-230.38"/>
+</g>
+<!-- 13 -->
+<g id="node14" class="node">
+<title>13</title>
+<path fill="#ea985e" stroke="black" d="M864.85,-230.4C864.85,-230.4 654.92,-230.4 654.92,-230.4 648.92,-230.4 642.92,-224.4 642.92,-218.4 642.92,-218.4 642.92,-184 642.92,-184 642.92,-178 648.92,-172 654.92,-172 654.92,-172 864.85,-172 864.85,-172 870.85,-172 876.85,-178 876.85,-184 876.85,-184 876.85,-218.4 876.85,-218.4 876.85,-224.4 870.85,-230.4 864.85,-230.4"/>
+<text text-anchor="start" x="650.92" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.836</text>
+<text text-anchor="start" x="714.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 297</text>
+<text text-anchor="start" x="708.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 5&#45;&gt;13 -->
+<g id="edge13" class="edge">
+<title>5-&gt;13</title>
+<path fill="none" stroke="black" d="M759.88,-266.12C759.88,-258.57 759.88,-250.27 759.88,-242.23"/>
+<polygon fill="black" stroke="black" points="763.38,-242.26 759.88,-232.26 756.38,-242.26 763.38,-242.26"/>
+</g>
+<!-- 7 -->
+<g id="node8" class="node">
+<title>7</title>
+<path fill="#f1bb94" stroke="black" d="M254.48,-136C254.48,-136 119.28,-136 119.28,-136 113.28,-136 107.28,-130 107.28,-124 107.28,-124 107.28,-89.6 107.28,-89.6 107.28,-83.6 113.28,-77.6 119.28,-77.6 119.28,-77.6 254.48,-77.6 254.48,-77.6 260.48,-77.6 266.48,-83.6 266.48,-89.6 266.48,-89.6 266.48,-124 266.48,-124 266.48,-130 260.48,-136 254.48,-136"/>
+<text text-anchor="start" x="115.28" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">job__JOB_Other ≤ 0.5</text>
+<text text-anchor="start" x="145.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 49</text>
+<text text-anchor="start" x="135.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>6-&gt;7</title>
+<path fill="none" stroke="black" d="M339.47,-171.6C316.17,-161.86 289.93,-150.89 265.87,-140.83"/>
+<polygon fill="black" stroke="black" points="267.32,-137.64 256.75,-137.01 264.62,-144.1 267.32,-137.64"/>
+</g>
+<!-- 10 -->
+<g id="node11" class="node">
+<title>10</title>
+<path fill="#63b2ea" stroke="black" d="M477.42,-136C477.42,-136 338.34,-136 338.34,-136 332.34,-136 326.34,-130 326.34,-124 326.34,-124 326.34,-89.6 326.34,-89.6 326.34,-83.6 332.34,-77.6 338.34,-77.6 338.34,-77.6 477.42,-77.6 477.42,-77.6 483.42,-77.6 489.42,-83.6 489.42,-89.6 489.42,-89.6 489.42,-124 489.42,-124 489.42,-130 483.42,-136 477.42,-136"/>
+<text text-anchor="start" x="334.34" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 13.5</text>
+<text text-anchor="start" x="366.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 13</text>
+<text text-anchor="start" x="361" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 6&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>6-&gt;10</title>
+<path fill="none" stroke="black" d="M407.88,-171.72C407.88,-164.17 407.88,-155.87 407.88,-147.83"/>
+<polygon fill="black" stroke="black" points="411.38,-147.86 407.88,-137.86 404.38,-147.86 411.38,-147.86"/>
+</g>
+<!-- 8 -->
+<g id="node9" class="node">
+<title>8</title>
+<path fill="#8ac5f0" stroke="black" d="M97.76,-41.6C97.76,-41.6 12,-41.6 12,-41.6 6,-41.6 0,-35.6 0,-29.6 0,-29.6 0,-12 0,-12 0,-6 6,0 12,0 12,0 97.76,0 97.76,0 103.76,0 109.76,-6 109.76,-12 109.76,-12 109.76,-29.6 109.76,-29.6 109.76,-35.6 103.76,-41.6 97.76,-41.6"/>
+<text text-anchor="start" x="16.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="8" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge8" class="edge">
+<title>7-&gt;8</title>
+<path fill="none" stroke="black" d="M141.82,-77.13C127.02,-67.7 110.64,-57.28 96.13,-48.05"/>
+<polygon fill="black" stroke="black" points="98.02,-45.1 87.7,-42.69 94.26,-51.01 98.02,-45.1"/>
+</g>
+<!-- 9 -->
+<g id="node10" class="node">
+<title>9</title>
+<path fill="#ea9b62" stroke="black" d="M234.43,-41.6C234.43,-41.6 139.33,-41.6 139.33,-41.6 133.33,-41.6 127.33,-35.6 127.33,-29.6 127.33,-29.6 127.33,-12 127.33,-12 127.33,-6 133.33,0 139.33,0 139.33,0 234.43,0 234.43,0 240.43,0 246.43,-6 246.43,-12 246.43,-12 246.43,-29.6 246.43,-29.6 246.43,-35.6 240.43,-41.6 234.43,-41.6"/>
+<text text-anchor="start" x="145.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 41</text>
+<text text-anchor="start" x="135.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 7&#45;&gt;9 -->
+<g id="edge9" class="edge">
+<title>7-&gt;9</title>
+<path fill="none" stroke="black" d="M186.88,-77.36C186.88,-69.65 186.88,-61.25 186.88,-53.38"/>
+<polygon fill="black" stroke="black" points="190.38,-53.5 186.88,-43.5 183.38,-53.5 190.38,-53.5"/>
+</g>
+<!-- 11 -->
+<g id="node12" class="node">
+<title>11</title>
+<path fill="#399de5" stroke="black" d="M361.76,-41.6C361.76,-41.6 276,-41.6 276,-41.6 270,-41.6 264,-35.6 264,-29.6 264,-29.6 264,-12 264,-12 264,-6 270,0 276,0 276,0 361.76,0 361.76,0 367.76,0 373.76,-6 373.76,-12 373.76,-12 373.76,-29.6 373.76,-29.6 373.76,-35.6 367.76,-41.6 361.76,-41.6"/>
+<text text-anchor="start" x="280.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 6</text>
+<text text-anchor="start" x="272" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 10&#45;&gt;11 -->
+<g id="edge11" class="edge">
+<title>10-&gt;11</title>
+<path fill="none" stroke="black" d="M377.75,-77.36C368.33,-68.47 357.95,-58.67 348.56,-49.81"/>
+<polygon fill="black" stroke="black" points="351.04,-47.34 341.37,-43.03 346.24,-52.43 351.04,-47.34"/>
+</g>
+<!-- 12 -->
+<g id="node13" class="node">
+<title>12</title>
+<path fill="#f7d6bf" stroke="black" d="M498.43,-41.6C498.43,-41.6 403.33,-41.6 403.33,-41.6 397.33,-41.6 391.33,-35.6 391.33,-29.6 391.33,-29.6 391.33,-12 391.33,-12 391.33,-6 397.33,0 403.33,0 403.33,0 498.43,0 498.43,0 504.43,0 510.43,-6 510.43,-12 510.43,-12 510.43,-29.6 510.43,-29.6 510.43,-35.6 504.43,-41.6 498.43,-41.6"/>
+<text text-anchor="start" x="412.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 7</text>
+<text text-anchor="start" x="399.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 10&#45;&gt;12 -->
+<g id="edge12" class="edge">
+<title>10-&gt;12</title>
+<path fill="none" stroke="black" d="M422.44,-77.36C426.62,-69.2 431.19,-60.26 435.42,-52"/>
+<polygon fill="black" stroke="black" points="438.42,-53.83 439.86,-43.33 432.19,-50.64 438.42,-53.83"/>
+</g>
+<!-- 14 -->
+<g id="node15" class="node">
+<title>14</title>
+<path fill="#f4c8a9" stroke="black" d="M728.38,-136C728.38,-136 557.38,-136 557.38,-136 551.38,-136 545.38,-130 545.38,-124 545.38,-124 545.38,-89.6 545.38,-89.6 545.38,-83.6 551.38,-77.6 557.38,-77.6 557.38,-77.6 728.38,-77.6 728.38,-77.6 734.38,-77.6 740.38,-83.6 740.38,-89.6 740.38,-89.6 740.38,-124 740.38,-124 740.38,-130 734.38,-136 728.38,-136"/>
+<text text-anchor="start" x="553.38" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 137.686</text>
+<text text-anchor="start" x="601.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 49</text>
+<text text-anchor="start" x="591.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge14" class="edge">
+<title>13-&gt;14</title>
+<path fill="none" stroke="black" d="M723.82,-171.72C712.48,-162.76 699.81,-152.76 687.92,-143.37"/>
+<polygon fill="black" stroke="black" points="690.23,-140.73 680.21,-137.28 685.89,-146.22 690.23,-140.73"/>
+</g>
+<!-- 17 -->
+<g id="node18" class="node">
+<title>17</title>
+<path fill="#e89050" stroke="black" d="M941.38,-136C941.38,-136 770.38,-136 770.38,-136 764.38,-136 758.38,-130 758.38,-124 758.38,-124 758.38,-89.6 758.38,-89.6 758.38,-83.6 764.38,-77.6 770.38,-77.6 770.38,-77.6 941.38,-77.6 941.38,-77.6 947.38,-77.6 953.38,-83.6 953.38,-89.6 953.38,-89.6 953.38,-124 953.38,-124 953.38,-130 947.38,-136 941.38,-136"/>
+<text text-anchor="start" x="766.38" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 180.549</text>
+<text text-anchor="start" x="810.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 248</text>
+<text text-anchor="start" x="804.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 13&#45;&gt;17 -->
+<g id="edge17" class="edge">
+<title>13-&gt;17</title>
+<path fill="none" stroke="black" d="M789.47,-171.72C798.5,-163.03 808.56,-153.35 818.06,-144.2"/>
+<polygon fill="black" stroke="black" points="820.36,-146.85 825.14,-137.39 815.5,-141.8 820.36,-146.85"/>
+</g>
+<!-- 15 -->
+<g id="node16" class="node">
+<title>15</title>
+<path fill="#e58139" stroke="black" d="M635.43,-41.6C635.43,-41.6 540.33,-41.6 540.33,-41.6 534.33,-41.6 528.33,-35.6 528.33,-29.6 528.33,-29.6 528.33,-12 528.33,-12 528.33,-6 534.33,0 540.33,0 540.33,0 635.43,0 635.43,0 641.43,0 647.43,-6 647.43,-12 647.43,-12 647.43,-29.6 647.43,-29.6 647.43,-35.6 641.43,-41.6 635.43,-41.6"/>
+<text text-anchor="start" x="546.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 28</text>
+<text text-anchor="start" x="536.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 14&#45;&gt;15 -->
+<g id="edge15" class="edge">
+<title>14-&gt;15</title>
+<path fill="none" stroke="black" d="M624.26,-77.36C618.79,-69.01 612.81,-59.87 607.29,-51.45"/>
+<polygon fill="black" stroke="black" points="610.33,-49.7 601.93,-43.25 604.48,-53.54 610.33,-49.7"/>
+</g>
+<!-- 16 -->
+<g id="node17" class="node">
+<title>16</title>
+<path fill="#b3d9f5" stroke="black" d="M762.76,-41.6C762.76,-41.6 677,-41.6 677,-41.6 671,-41.6 665,-35.6 665,-29.6 665,-29.6 665,-12 665,-12 665,-6 671,0 677,0 677,0 762.76,0 762.76,0 768.76,0 774.76,-6 774.76,-12 774.76,-12 774.76,-29.6 774.76,-29.6 774.76,-35.6 768.76,-41.6 762.76,-41.6"/>
+<text text-anchor="start" x="678.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 21</text>
+<text text-anchor="start" x="673" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 14&#45;&gt;16 -->
+<g id="edge16" class="edge">
+<title>14-&gt;16</title>
+<path fill="none" stroke="black" d="M668.95,-77.36C676.93,-68.65 685.72,-59.07 693.71,-50.35"/>
+<polygon fill="black" stroke="black" points="696.18,-52.84 700.35,-43.1 691.02,-48.11 696.18,-52.84"/>
+</g>
+<!-- 18 -->
+<g id="node19" class="node">
+<title>18</title>
+<path fill="#e78c4a" stroke="black" d="M899.43,-41.6C899.43,-41.6 804.33,-41.6 804.33,-41.6 798.33,-41.6 792.33,-35.6 792.33,-29.6 792.33,-29.6 792.33,-12 792.33,-12 792.33,-6 798.33,0 804.33,0 804.33,0 899.43,0 899.43,0 905.43,0 911.43,-6 911.43,-12 911.43,-12 911.43,-29.6 911.43,-29.6 911.43,-35.6 905.43,-41.6 899.43,-41.6"/>
+<text text-anchor="start" x="806.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 240</text>
+<text text-anchor="start" x="800.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 17&#45;&gt;18 -->
+<g id="edge18" class="edge">
+<title>17-&gt;18</title>
+<path fill="none" stroke="black" d="M854.53,-77.36C854.16,-69.65 853.76,-61.25 853.38,-53.38"/>
+<polygon fill="black" stroke="black" points="856.89,-53.32 852.91,-43.5 849.89,-53.65 856.89,-53.32"/>
+</g>
+<!-- 19 -->
+<g id="node20" class="node">
+<title>19</title>
+<path fill="#cbe5f8" stroke="black" d="M1026.76,-41.6C1026.76,-41.6 941,-41.6 941,-41.6 935,-41.6 929,-35.6 929,-29.6 929,-29.6 929,-12 929,-12 929,-6 935,0 941,0 941,0 1026.76,0 1026.76,0 1032.76,0 1038.76,-6 1038.76,-12 1038.76,-12 1038.76,-29.6 1038.76,-29.6 1038.76,-35.6 1032.76,-41.6 1026.76,-41.6"/>
+<text text-anchor="start" x="945.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="937" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 17&#45;&gt;19 -->
+<g id="edge19" class="edge">
+<title>17-&gt;19</title>
+<path fill="none" stroke="black" d="M899.57,-77.13C913.93,-67.7 929.81,-57.28 943.88,-48.05"/>
+<polygon fill="black" stroke="black" points="945.58,-51.12 952.02,-42.71 941.74,-45.27 945.58,-51.12"/>
+</g>
+<!-- 21 -->
+<g id="node22" class="node">
+<title>21</title>
+<path fill="#f4caac" stroke="black" d="M1313.85,-230.4C1313.85,-230.4 1103.92,-230.4 1103.92,-230.4 1097.92,-230.4 1091.92,-224.4 1091.92,-218.4 1091.92,-218.4 1091.92,-184 1091.92,-184 1091.92,-178 1097.92,-172 1103.92,-172 1103.92,-172 1313.85,-172 1313.85,-172 1319.85,-172 1325.85,-178 1325.85,-184 1325.85,-184 1325.85,-218.4 1325.85,-218.4 1325.85,-224.4 1319.85,-230.4 1313.85,-230.4"/>
+<text text-anchor="start" x="1099.92" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.664</text>
+<text text-anchor="start" x="1167.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 32</text>
+<text text-anchor="start" x="1157.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 20&#45;&gt;21 -->
+<g id="edge21" class="edge">
+<title>20-&gt;21</title>
+<path fill="none" stroke="black" d="M1283.6,-266.12C1273.23,-257.25 1261.66,-247.36 1250.78,-238.05"/>
+<polygon fill="black" stroke="black" points="1253.27,-235.57 1243.39,-231.73 1248.71,-240.89 1253.27,-235.57"/>
+</g>
+<!-- 26 -->
+<g id="node27" class="node">
+<title>26</title>
+<path fill="#e6843e" stroke="black" d="M1495.42,-230.4C1495.42,-230.4 1356.34,-230.4 1356.34,-230.4 1350.34,-230.4 1344.34,-224.4 1344.34,-218.4 1344.34,-218.4 1344.34,-184 1344.34,-184 1344.34,-178 1350.34,-172 1356.34,-172 1356.34,-172 1495.42,-172 1495.42,-172 1501.42,-172 1507.42,-178 1507.42,-184 1507.42,-184 1507.42,-218.4 1507.42,-218.4 1507.42,-224.4 1501.42,-230.4 1495.42,-230.4"/>
+<text text-anchor="start" x="1352.34" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 37.5</text>
+<text text-anchor="start" x="1380.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 316</text>
+<text text-anchor="start" x="1374.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 20&#45;&gt;26 -->
+<g id="edge26" class="edge">
+<title>20-&gt;26</title>
+<path fill="none" stroke="black" d="M1350.47,-266.12C1360.94,-257.25 1372.61,-247.36 1383.59,-238.05"/>
+<polygon fill="black" stroke="black" points="1385.69,-240.86 1391.06,-231.72 1381.17,-235.52 1385.69,-240.86"/>
+</g>
+<!-- 22 -->
+<g id="node23" class="node">
+<title>22</title>
+<path fill="#e58139" stroke="black" d="M1090.43,-127.6C1090.43,-127.6 995.33,-127.6 995.33,-127.6 989.33,-127.6 983.33,-121.6 983.33,-115.6 983.33,-115.6 983.33,-98 983.33,-98 983.33,-92 989.33,-86 995.33,-86 995.33,-86 1090.43,-86 1090.43,-86 1096.43,-86 1102.43,-92 1102.43,-98 1102.43,-98 1102.43,-115.6 1102.43,-115.6 1102.43,-121.6 1096.43,-127.6 1090.43,-127.6"/>
+<text text-anchor="start" x="1001.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16</text>
+<text text-anchor="start" x="991.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 21&#45;&gt;22 -->
+<g id="edge22" class="edge">
+<title>21-&gt;22</title>
+<path fill="none" stroke="black" d="M1157.72,-171.72C1135.76,-159.5 1110.3,-145.33 1088.94,-133.44"/>
+<polygon fill="black" stroke="black" points="1090.89,-130.52 1080.45,-128.71 1087.49,-136.64 1090.89,-130.52"/>
+</g>
+<!-- 23 -->
+<g id="node24" class="node">
+<title>23</title>
+<path fill="#cbe5f8" stroke="black" d="M1303.38,-136C1303.38,-136 1132.38,-136 1132.38,-136 1126.38,-136 1120.38,-130 1120.38,-124 1120.38,-124 1120.38,-89.6 1120.38,-89.6 1120.38,-83.6 1126.38,-77.6 1132.38,-77.6 1132.38,-77.6 1303.38,-77.6 1303.38,-77.6 1309.38,-77.6 1315.38,-83.6 1315.38,-89.6 1315.38,-89.6 1315.38,-124 1315.38,-124 1315.38,-130 1309.38,-136 1303.38,-136"/>
+<text text-anchor="start" x="1128.38" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 159.558</text>
+<text text-anchor="start" x="1176.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16</text>
+<text text-anchor="start" x="1171" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 21&#45;&gt;23 -->
+<g id="edge23" class="edge">
+<title>21-&gt;23</title>
+<path fill="none" stroke="black" d="M1211.65,-171.72C1212.4,-164.08 1213.22,-155.68 1214.01,-147.55"/>
+<polygon fill="black" stroke="black" points="1217.47,-148.14 1214.95,-137.85 1210.5,-147.46 1217.47,-148.14"/>
+</g>
+<!-- 24 -->
+<g id="node25" class="node">
+<title>24</title>
+<path fill="#6ab5eb" stroke="black" d="M1154.76,-41.6C1154.76,-41.6 1069,-41.6 1069,-41.6 1063,-41.6 1057,-35.6 1057,-29.6 1057,-29.6 1057,-12 1057,-12 1057,-6 1063,0 1069,0 1069,0 1154.76,0 1154.76,0 1160.76,0 1166.76,-6 1166.76,-12 1166.76,-12 1166.76,-29.6 1166.76,-29.6 1166.76,-35.6 1160.76,-41.6 1154.76,-41.6"/>
+<text text-anchor="start" x="1073.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="1065" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 23&#45;&gt;24 -->
+<g id="edge24" class="edge">
+<title>23-&gt;24</title>
+<path fill="none" stroke="black" d="M1181.7,-77.13C1170.15,-67.98 1157.42,-57.88 1146.02,-48.85"/>
+<polygon fill="black" stroke="black" points="1148.41,-46.28 1138.4,-42.82 1144.06,-51.77 1148.41,-46.28"/>
+</g>
+<!-- 25 -->
+<g id="node26" class="node">
+<title>25</title>
+<path fill="#e58139" stroke="black" d="M1291.43,-41.6C1291.43,-41.6 1196.33,-41.6 1196.33,-41.6 1190.33,-41.6 1184.33,-35.6 1184.33,-29.6 1184.33,-29.6 1184.33,-12 1184.33,-12 1184.33,-6 1190.33,0 1196.33,0 1196.33,0 1291.43,0 1291.43,0 1297.43,0 1303.43,-6 1303.43,-12 1303.43,-12 1303.43,-29.6 1303.43,-29.6 1303.43,-35.6 1297.43,-41.6 1291.43,-41.6"/>
+<text text-anchor="start" x="1205.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="1192.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 23&#45;&gt;25 -->
+<g id="edge25" class="edge">
+<title>23-&gt;25</title>
+<path fill="none" stroke="black" d="M1226.68,-77.36C1229.13,-69.47 1231.79,-60.86 1234.28,-52.83"/>
+<polygon fill="black" stroke="black" points="1237.57,-54.02 1237.18,-43.43 1230.88,-51.95 1237.57,-54.02"/>
+</g>
+<!-- 27 -->
+<g id="node28" class="node">
+<title>27</title>
+<path fill="#e5833c" stroke="black" d="M1482.53,-136C1482.53,-136 1351.23,-136 1351.23,-136 1345.23,-136 1339.23,-130 1339.23,-124 1339.23,-124 1339.23,-89.6 1339.23,-89.6 1339.23,-83.6 1345.23,-77.6 1351.23,-77.6 1351.23,-77.6 1482.53,-77.6 1482.53,-77.6 1488.53,-77.6 1494.53,-83.6 1494.53,-89.6 1494.53,-89.6 1494.53,-124 1494.53,-124 1494.53,-130 1488.53,-136 1482.53,-136"/>
+<text text-anchor="start" x="1347.23" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 9.5</text>
+<text text-anchor="start" x="1371.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 311</text>
+<text text-anchor="start" x="1365.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 26&#45;&gt;27 -->
+<g id="edge27" class="edge">
+<title>26-&gt;27</title>
+<path fill="none" stroke="black" d="M1423.11,-171.72C1422.36,-164.08 1421.54,-155.68 1420.75,-147.55"/>
+<polygon fill="black" stroke="black" points="1424.26,-147.46 1419.81,-137.85 1417.29,-148.14 1424.26,-147.46"/>
+</g>
+<!-- 30 -->
+<g id="node31" class="node">
+<title>30</title>
+<path fill="#fcfdff" stroke="black" d="M1610.76,-127.6C1610.76,-127.6 1525,-127.6 1525,-127.6 1519,-127.6 1513,-121.6 1513,-115.6 1513,-115.6 1513,-98 1513,-98 1513,-92 1519,-86 1525,-86 1525,-86 1610.76,-86 1610.76,-86 1616.76,-86 1622.76,-92 1622.76,-98 1622.76,-98 1622.76,-115.6 1622.76,-115.6 1622.76,-121.6 1616.76,-127.6 1610.76,-127.6"/>
+<text text-anchor="start" x="1529.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="1521" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 26&#45;&gt;30 -->
+<g id="edge30" class="edge">
+<title>26-&gt;30</title>
+<path fill="none" stroke="black" d="M1469.64,-171.72C1488.24,-159.62 1509.78,-145.61 1527.94,-133.79"/>
+<polygon fill="black" stroke="black" points="1529.35,-137.05 1535.82,-128.66 1525.53,-131.18 1529.35,-137.05"/>
+</g>
+<!-- 28 -->
+<g id="node29" class="node">
+<title>28</title>
+<path fill="#e78b49" stroke="black" d="M1428.43,-41.6C1428.43,-41.6 1333.33,-41.6 1333.33,-41.6 1327.33,-41.6 1321.33,-35.6 1321.33,-29.6 1321.33,-29.6 1321.33,-12 1321.33,-12 1321.33,-6 1327.33,0 1333.33,0 1333.33,0 1428.43,0 1428.43,0 1434.43,0 1440.43,-6 1440.43,-12 1440.43,-12 1440.43,-29.6 1440.43,-29.6 1440.43,-35.6 1434.43,-41.6 1428.43,-41.6"/>
+<text text-anchor="start" x="1339.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 51</text>
+<text text-anchor="start" x="1329.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 27&#45;&gt;28 -->
+<g id="edge28" class="edge">
+<title>27-&gt;28</title>
+<path fill="none" stroke="black" d="M1404.69,-77.36C1401.27,-69.38 1397.54,-60.66 1394.06,-52.55"/>
+<polygon fill="black" stroke="black" points="1397.28,-51.19 1390.13,-43.38 1390.85,-53.95 1397.28,-51.19"/>
+</g>
+<!-- 29 -->
+<g id="node30" class="node">
+<title>29</title>
+<path fill="#e58139" stroke="black" d="M1565.43,-41.6C1565.43,-41.6 1470.33,-41.6 1470.33,-41.6 1464.33,-41.6 1458.33,-35.6 1458.33,-29.6 1458.33,-29.6 1458.33,-12 1458.33,-12 1458.33,-6 1464.33,0 1470.33,0 1470.33,0 1565.43,0 1565.43,0 1571.43,0 1577.43,-6 1577.43,-12 1577.43,-12 1577.43,-29.6 1577.43,-29.6 1577.43,-35.6 1571.43,-41.6 1565.43,-41.6"/>
+<text text-anchor="start" x="1472.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 260</text>
+<text text-anchor="start" x="1466.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 27&#45;&gt;29 -->
+<g id="edge29" class="edge">
+<title>27-&gt;29</title>
+<path fill="none" stroke="black" d="M1451.36,-77.13C1462.25,-68.07 1474.25,-58.08 1485.03,-49.12"/>
+<polygon fill="black" stroke="black" points="1487.13,-51.93 1492.58,-42.84 1482.65,-46.55 1487.13,-51.93"/>
+</g>
+<!-- 32 -->
+<g id="node33" class="node">
+<title>32</title>
+<path fill="#efb285" stroke="black" d="M1907.53,-324.8C1907.53,-324.8 1776.23,-324.8 1776.23,-324.8 1770.23,-324.8 1764.23,-318.8 1764.23,-312.8 1764.23,-312.8 1764.23,-278.4 1764.23,-278.4 1764.23,-272.4 1770.23,-266.4 1776.23,-266.4 1776.23,-266.4 1907.53,-266.4 1907.53,-266.4 1913.53,-266.4 1919.53,-272.4 1919.53,-278.4 1919.53,-278.4 1919.53,-312.8 1919.53,-312.8 1919.53,-318.8 1913.53,-324.8 1907.53,-324.8"/>
+<text text-anchor="start" x="1772.23" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 2.5</text>
+<text text-anchor="start" x="1796.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 612</text>
+<text text-anchor="start" x="1790.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 31&#45;&gt;32 -->
+<g id="edge32" class="edge">
+<title>31-&gt;32</title>
+<path fill="none" stroke="black" d="M1902.76,-360.52C1894.56,-351.92 1885.44,-342.34 1876.81,-333.28"/>
+<polygon fill="black" stroke="black" points="1879.54,-331.07 1870.11,-326.24 1874.47,-335.89 1879.54,-331.07"/>
+</g>
+<!-- 41 -->
+<g id="node42" class="node">
+<title>41</title>
+<path fill="#84c2ef" stroke="black" d="M2088.42,-324.8C2088.42,-324.8 1949.34,-324.8 1949.34,-324.8 1943.34,-324.8 1937.34,-318.8 1937.34,-312.8 1937.34,-312.8 1937.34,-278.4 1937.34,-278.4 1937.34,-272.4 1943.34,-266.4 1949.34,-266.4 1949.34,-266.4 2088.42,-266.4 2088.42,-266.4 2094.42,-266.4 2100.42,-272.4 2100.42,-278.4 2100.42,-278.4 2100.42,-312.8 2100.42,-312.8 2100.42,-318.8 2094.42,-324.8 2088.42,-324.8"/>
+<text text-anchor="start" x="1945.34" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 14.5</text>
+<text text-anchor="start" x="1977.05" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 43</text>
+<text text-anchor="start" x="1972" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 31&#45;&gt;41 -->
+<g id="edge41" class="edge">
+<title>31-&gt;41</title>
+<path fill="none" stroke="black" d="M1957.31,-360.52C1965.6,-351.92 1974.82,-342.34 1983.55,-333.28"/>
+<polygon fill="black" stroke="black" points="1985.92,-335.86 1990.34,-326.23 1980.88,-331.01 1985.92,-335.86"/>
+</g>
+<!-- 33 -->
+<g id="node34" class="node">
+<title>33</title>
+<path fill="#51a9e8" stroke="black" d="M1741.76,-222C1741.76,-222 1656,-222 1656,-222 1650,-222 1644,-216 1644,-210 1644,-210 1644,-192.4 1644,-192.4 1644,-186.4 1650,-180.4 1656,-180.4 1656,-180.4 1741.76,-180.4 1741.76,-180.4 1747.76,-180.4 1753.76,-186.4 1753.76,-192.4 1753.76,-192.4 1753.76,-210 1753.76,-210 1753.76,-216 1747.76,-222 1741.76,-222"/>
+<text text-anchor="start" x="1660.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="1652" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 32&#45;&gt;33 -->
+<g id="edge33" class="edge">
+<title>32-&gt;33</title>
+<path fill="none" stroke="black" d="M1797.81,-266.12C1779.17,-254.08 1757.59,-240.14 1739.36,-228.35"/>
+<polygon fill="black" stroke="black" points="1741.45,-225.54 1731.16,-223.05 1737.66,-231.42 1741.45,-225.54"/>
+</g>
+<!-- 34 -->
+<g id="node35" class="node">
+<title>34</title>
+<path fill="#eeac7d" stroke="black" d="M1922.42,-230.4C1922.42,-230.4 1783.34,-230.4 1783.34,-230.4 1777.34,-230.4 1771.34,-224.4 1771.34,-218.4 1771.34,-218.4 1771.34,-184 1771.34,-184 1771.34,-178 1777.34,-172 1783.34,-172 1783.34,-172 1922.42,-172 1922.42,-172 1928.42,-172 1934.42,-178 1934.42,-184 1934.42,-184 1934.42,-218.4 1934.42,-218.4 1934.42,-224.4 1928.42,-230.4 1922.42,-230.4"/>
+<text text-anchor="start" x="1779.34" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 21.5</text>
+<text text-anchor="start" x="1807.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 603</text>
+<text text-anchor="start" x="1801.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 32&#45;&gt;34 -->
+<g id="edge34" class="edge">
+<title>32-&gt;34</title>
+<path fill="none" stroke="black" d="M1845.27,-266.12C1846.18,-258.48 1847.18,-250.08 1848.15,-241.95"/>
+<polygon fill="black" stroke="black" points="1851.6,-242.59 1849.3,-232.24 1844.65,-241.76 1851.6,-242.59"/>
+</g>
+<!-- 35 -->
+<g id="node36" class="node">
+<title>35</title>
+<path fill="#f1bc95" stroke="black" d="M1772.13,-136C1772.13,-136 1655.63,-136 1655.63,-136 1649.63,-136 1643.63,-130 1643.63,-124 1643.63,-124 1643.63,-89.6 1643.63,-89.6 1643.63,-83.6 1649.63,-77.6 1655.63,-77.6 1655.63,-77.6 1772.13,-77.6 1772.13,-77.6 1778.13,-77.6 1784.13,-83.6 1784.13,-89.6 1784.13,-89.6 1784.13,-124 1784.13,-124 1784.13,-130 1778.13,-136 1772.13,-136"/>
+<text text-anchor="start" x="1651.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">mode__NINQ ≤ 3.5</text>
+<text text-anchor="start" x="1668.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 351</text>
+<text text-anchor="start" x="1662.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 34&#45;&gt;35 -->
+<g id="edge35" class="edge">
+<title>34-&gt;35</title>
+<path fill="none" stroke="black" d="M1810.04,-171.72C1796.17,-162.5 1780.63,-152.17 1766.15,-142.55"/>
+<polygon fill="black" stroke="black" points="1768.34,-139.8 1758.08,-137.18 1764.47,-145.63 1768.34,-139.8"/>
+</g>
+<!-- 38 -->
+<g id="node39" class="node">
+<title>38</title>
+<path fill="#ea985e" stroke="black" d="M2023.85,-136C2023.85,-136 1813.92,-136 1813.92,-136 1807.92,-136 1801.92,-130 1801.92,-124 1801.92,-124 1801.92,-89.6 1801.92,-89.6 1801.92,-83.6 1807.92,-77.6 1813.92,-77.6 1813.92,-77.6 2023.85,-77.6 2023.85,-77.6 2029.85,-77.6 2035.85,-83.6 2035.85,-89.6 2035.85,-89.6 2035.85,-124 2035.85,-124 2035.85,-130 2029.85,-136 2023.85,-136"/>
+<text text-anchor="start" x="1809.92" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 1.154</text>
+<text text-anchor="start" x="1873.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 252</text>
+<text text-anchor="start" x="1867.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 34&#45;&gt;38 -->
+<g id="edge38" class="edge">
+<title>34-&gt;38</title>
+<path fill="none" stroke="black" d="M1873.22,-171.72C1879.12,-163.47 1885.65,-154.32 1891.89,-145.59"/>
+<polygon fill="black" stroke="black" points="1894.65,-147.75 1897.61,-137.57 1888.95,-143.68 1894.65,-147.75"/>
+</g>
+<!-- 36 -->
+<g id="node37" class="node">
+<title>36</title>
+<path fill="#efb388" stroke="black" d="M1702.43,-41.6C1702.43,-41.6 1607.33,-41.6 1607.33,-41.6 1601.33,-41.6 1595.33,-35.6 1595.33,-29.6 1595.33,-29.6 1595.33,-12 1595.33,-12 1595.33,-6 1601.33,0 1607.33,0 1607.33,0 1702.43,0 1702.43,0 1708.43,0 1714.43,-6 1714.43,-12 1714.43,-12 1714.43,-29.6 1714.43,-29.6 1714.43,-35.6 1708.43,-41.6 1702.43,-41.6"/>
+<text text-anchor="start" x="1609.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 335</text>
+<text text-anchor="start" x="1603.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 35&#45;&gt;36 -->
+<g id="edge36" class="edge">
+<title>35-&gt;36</title>
+<path fill="none" stroke="black" d="M1693.91,-77.36C1687.98,-68.92 1681.48,-59.67 1675.51,-51.17"/>
+<polygon fill="black" stroke="black" points="1678.54,-49.4 1669.93,-43.23 1672.81,-53.42 1678.54,-49.4"/>
+</g>
+<!-- 37 -->
+<g id="node38" class="node">
+<title>37</title>
+<path fill="#8ac5f0" stroke="black" d="M1829.76,-41.6C1829.76,-41.6 1744,-41.6 1744,-41.6 1738,-41.6 1732,-35.6 1732,-29.6 1732,-29.6 1732,-12 1732,-12 1732,-6 1738,0 1744,0 1744,0 1829.76,0 1829.76,0 1835.76,0 1841.76,-6 1841.76,-12 1841.76,-12 1841.76,-29.6 1841.76,-29.6 1841.76,-35.6 1835.76,-41.6 1829.76,-41.6"/>
+<text text-anchor="start" x="1745.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16</text>
+<text text-anchor="start" x="1740" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 35&#45;&gt;37 -->
+<g id="edge37" class="edge">
+<title>35-&gt;37</title>
+<path fill="none" stroke="black" d="M1738.6,-77.36C1746.09,-68.74 1754.32,-59.27 1761.83,-50.62"/>
+<polygon fill="black" stroke="black" points="1764.43,-52.97 1768.34,-43.13 1759.14,-48.38 1764.43,-52.97"/>
+</g>
+<!-- 39 -->
+<g id="node40" class="node">
+<title>39</title>
+<path fill="#e99457" stroke="black" d="M1966.43,-41.6C1966.43,-41.6 1871.33,-41.6 1871.33,-41.6 1865.33,-41.6 1859.33,-35.6 1859.33,-29.6 1859.33,-29.6 1859.33,-12 1859.33,-12 1859.33,-6 1865.33,0 1871.33,0 1871.33,0 1966.43,0 1966.43,0 1972.43,0 1978.43,-6 1978.43,-12 1978.43,-12 1978.43,-29.6 1978.43,-29.6 1978.43,-35.6 1972.43,-41.6 1966.43,-41.6"/>
+<text text-anchor="start" x="1873.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 247</text>
+<text text-anchor="start" x="1867.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 38&#45;&gt;39 -->
+<g id="edge39" class="edge">
+<title>38-&gt;39</title>
+<path fill="none" stroke="black" d="M1918.88,-77.36C1918.88,-69.65 1918.88,-61.25 1918.88,-53.38"/>
+<polygon fill="black" stroke="black" points="1922.38,-53.5 1918.88,-43.5 1915.38,-53.5 1922.38,-53.5"/>
+</g>
+<!-- 40 -->
+<g id="node41" class="node">
+<title>40</title>
+<path fill="#82c1ef" stroke="black" d="M2093.76,-41.6C2093.76,-41.6 2008,-41.6 2008,-41.6 2002,-41.6 1996,-35.6 1996,-29.6 1996,-29.6 1996,-12 1996,-12 1996,-6 2002,0 2008,0 2008,0 2093.76,0 2093.76,0 2099.76,0 2105.76,-6 2105.76,-12 2105.76,-12 2105.76,-29.6 2105.76,-29.6 2105.76,-35.6 2099.76,-41.6 2093.76,-41.6"/>
+<text text-anchor="start" x="2012.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="2004" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 38&#45;&gt;40 -->
+<g id="edge40" class="edge">
+<title>38-&gt;40</title>
+<path fill="none" stroke="black" d="M1963.94,-77.13C1978.75,-67.7 1995.12,-57.28 2009.63,-48.05"/>
+<polygon fill="black" stroke="black" points="2011.5,-51.01 2018.06,-42.69 2007.74,-45.1 2011.5,-51.01"/>
+</g>
+<!-- 42 -->
+<g id="node43" class="node">
+<title>42</title>
+<path fill="#47a4e7" stroke="black" d="M2055.76,-222C2055.76,-222 1970,-222 1970,-222 1964,-222 1958,-216 1958,-210 1958,-210 1958,-192.4 1958,-192.4 1958,-186.4 1964,-180.4 1970,-180.4 1970,-180.4 2055.76,-180.4 2055.76,-180.4 2061.76,-180.4 2067.76,-186.4 2067.76,-192.4 2067.76,-192.4 2067.76,-210 2067.76,-210 2067.76,-216 2061.76,-222 2055.76,-222"/>
+<text text-anchor="start" x="1974.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="1966" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 41&#45;&gt;42 -->
+<g id="edge42" class="edge">
+<title>41-&gt;42</title>
+<path fill="none" stroke="black" d="M2017.03,-266.12C2016.36,-255.8 2015.6,-244.08 2014.91,-233.52"/>
+<polygon fill="black" stroke="black" points="2018.42,-233.5 2014.28,-223.74 2011.44,-233.95 2018.42,-233.5"/>
+</g>
+<!-- 43 -->
+<g id="node44" class="node">
+<title>43</title>
+<path fill="#aed7f4" stroke="black" d="M2260.49,-230.4C2260.49,-230.4 2097.27,-230.4 2097.27,-230.4 2091.27,-230.4 2085.27,-224.4 2085.27,-218.4 2085.27,-218.4 2085.27,-184 2085.27,-184 2085.27,-178 2091.27,-172 2097.27,-172 2097.27,-172 2260.49,-172 2260.49,-172 2266.49,-172 2272.49,-178 2272.49,-184 2272.49,-184 2272.49,-218.4 2272.49,-218.4 2272.49,-224.4 2266.49,-230.4 2260.49,-230.4"/>
+<text text-anchor="start" x="2093.27" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 87.658</text>
+<text text-anchor="start" x="2137.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 34</text>
+<text text-anchor="start" x="2132" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 41&#45;&gt;43 -->
+<g id="edge43" class="edge">
+<title>41-&gt;43</title>
+<path fill="none" stroke="black" d="M2068.19,-266.12C2084.46,-256.73 2102.73,-246.18 2119.67,-236.4"/>
+<polygon fill="black" stroke="black" points="2121.24,-239.53 2128.15,-231.5 2117.74,-233.47 2121.24,-239.53"/>
+</g>
+<!-- 44 -->
+<g id="node45" class="node">
+<title>44</title>
+<path fill="#e58139" stroke="black" d="M2161.43,-127.6C2161.43,-127.6 2066.33,-127.6 2066.33,-127.6 2060.33,-127.6 2054.33,-121.6 2054.33,-115.6 2054.33,-115.6 2054.33,-98 2054.33,-98 2054.33,-92 2060.33,-86 2066.33,-86 2066.33,-86 2161.43,-86 2161.43,-86 2167.43,-86 2173.43,-92 2173.43,-98 2173.43,-98 2173.43,-115.6 2173.43,-115.6 2173.43,-121.6 2167.43,-127.6 2161.43,-127.6"/>
+<text text-anchor="start" x="2075.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="2062.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 43&#45;&gt;44 -->
+<g id="edge44" class="edge">
+<title>43-&gt;44</title>
+<path fill="none" stroke="black" d="M2158.85,-171.72C2151.12,-160.73 2142.27,-148.16 2134.49,-137.1"/>
+<polygon fill="black" stroke="black" points="2137.46,-135.24 2128.84,-129.07 2131.74,-139.26 2137.46,-135.24"/>
+</g>
+<!-- 45 -->
+<g id="node46" class="node">
+<title>45</title>
+<path fill="#87c4ef" stroke="black" d="M2288.76,-127.6C2288.76,-127.6 2203,-127.6 2203,-127.6 2197,-127.6 2191,-121.6 2191,-115.6 2191,-115.6 2191,-98 2191,-98 2191,-92 2197,-86 2203,-86 2203,-86 2288.76,-86 2288.76,-86 2294.76,-86 2300.76,-92 2300.76,-98 2300.76,-98 2300.76,-115.6 2300.76,-115.6 2300.76,-121.6 2294.76,-127.6 2288.76,-127.6"/>
+<text text-anchor="start" x="2204.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 26</text>
+<text text-anchor="start" x="2199" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 43&#45;&gt;45 -->
+<g id="edge45" class="edge">
+<title>43-&gt;45</title>
+<path fill="none" stroke="black" d="M2199.53,-171.72C2207.5,-160.73 2216.61,-148.16 2224.64,-137.1"/>
+<polygon fill="black" stroke="black" points="2227.43,-139.21 2230.47,-129.06 2221.76,-135.1 2227.43,-139.21"/>
+</g>
+<!-- 47 -->
+<g id="node48" class="node">
+<title>47</title>
+<path fill="#e5823b" stroke="black" d="M2685.38,-419.2C2685.38,-419.2 2514.38,-419.2 2514.38,-419.2 2508.38,-419.2 2502.38,-413.2 2502.38,-407.2 2502.38,-407.2 2502.38,-372.8 2502.38,-372.8 2502.38,-366.8 2508.38,-360.8 2514.38,-360.8 2514.38,-360.8 2685.38,-360.8 2685.38,-360.8 2691.38,-360.8 2697.38,-366.8 2697.38,-372.8 2697.38,-372.8 2697.38,-407.2 2697.38,-407.2 2697.38,-413.2 2691.38,-419.2 2685.38,-419.2"/>
+<text text-anchor="start" x="2510.38" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 629.039</text>
+<text text-anchor="start" x="2554.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 476</text>
+<text text-anchor="start" x="2548.33" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 46&#45;&gt;47 -->
+<g id="edge47" class="edge">
+<title>46-&gt;47</title>
+<path fill="none" stroke="black" d="M2664.22,-454.92C2655.47,-446.23 2645.72,-436.55 2636.52,-427.4"/>
+<polygon fill="black" stroke="black" points="2639.24,-425.17 2629.68,-420.61 2634.31,-430.14 2639.24,-425.17"/>
+</g>
+<!-- 50 -->
+<g id="node51" class="node">
+<title>50</title>
+<path fill="#e89153" stroke="black" d="M2846.69,-419.2C2846.69,-419.2 2727.07,-419.2 2727.07,-419.2 2721.07,-419.2 2715.07,-413.2 2715.07,-407.2 2715.07,-407.2 2715.07,-372.8 2715.07,-372.8 2715.07,-366.8 2721.07,-360.8 2727.07,-360.8 2727.07,-360.8 2846.69,-360.8 2846.69,-360.8 2852.69,-360.8 2858.69,-366.8 2858.69,-372.8 2858.69,-372.8 2858.69,-407.2 2858.69,-407.2 2858.69,-413.2 2852.69,-419.2 2846.69,-419.2"/>
+<text text-anchor="start" x="2723.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 5.5</text>
+<text text-anchor="start" x="2741.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 713</text>
+<text text-anchor="start" x="2735.33" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 46&#45;&gt;50 -->
+<g id="edge50" class="edge">
+<title>46-&gt;50</title>
+<path fill="none" stroke="black" d="M2721.85,-454.92C2730.7,-446.23 2740.55,-436.55 2749.85,-427.4"/>
+<polygon fill="black" stroke="black" points="2752.09,-430.11 2756.77,-420.6 2747.18,-425.12 2752.09,-430.11"/>
+</g>
+<!-- 48 -->
+<g id="node49" class="node">
+<title>48</title>
+<path fill="#e58139" stroke="black" d="M2518.43,-316.4C2518.43,-316.4 2423.33,-316.4 2423.33,-316.4 2417.33,-316.4 2411.33,-310.4 2411.33,-304.4 2411.33,-304.4 2411.33,-286.8 2411.33,-286.8 2411.33,-280.8 2417.33,-274.8 2423.33,-274.8 2423.33,-274.8 2518.43,-274.8 2518.43,-274.8 2524.43,-274.8 2530.43,-280.8 2530.43,-286.8 2530.43,-286.8 2530.43,-304.4 2530.43,-304.4 2530.43,-310.4 2524.43,-316.4 2518.43,-316.4"/>
+<text text-anchor="start" x="2425.16" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 471</text>
+<text text-anchor="start" x="2419.33" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 47&#45;&gt;48 -->
+<g id="edge48" class="edge">
+<title>47-&gt;48</title>
+<path fill="none" stroke="black" d="M2560.12,-360.52C2543.54,-348.64 2524.38,-334.92 2508.08,-323.24"/>
+<polygon fill="black" stroke="black" points="2510.25,-320.49 2500.08,-317.51 2506.17,-326.18 2510.25,-320.49"/>
+</g>
+<!-- 49 -->
+<g id="node50" class="node">
+<title>49</title>
+<path fill="#fcfdff" stroke="black" d="M2645.76,-316.4C2645.76,-316.4 2560,-316.4 2560,-316.4 2554,-316.4 2548,-310.4 2548,-304.4 2548,-304.4 2548,-286.8 2548,-286.8 2548,-280.8 2554,-274.8 2560,-274.8 2560,-274.8 2645.76,-274.8 2645.76,-274.8 2651.76,-274.8 2657.76,-280.8 2657.76,-286.8 2657.76,-286.8 2657.76,-304.4 2657.76,-304.4 2657.76,-310.4 2651.76,-316.4 2645.76,-316.4"/>
+<text text-anchor="start" x="2564.94" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="2556" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 47&#45;&gt;49 -->
+<g id="edge49" class="edge">
+<title>47-&gt;49</title>
+<path fill="none" stroke="black" d="M2600.81,-360.52C2601.14,-350.2 2601.52,-338.48 2601.86,-327.92"/>
+<polygon fill="black" stroke="black" points="2605.35,-328.25 2602.18,-318.15 2598.36,-328.03 2605.35,-328.25"/>
+</g>
+<!-- 51 -->
+<g id="node52" class="node">
+<title>51</title>
+<path fill="#eb9f68" stroke="black" d="M2873.65,-324.8C2873.65,-324.8 2694.12,-324.8 2694.12,-324.8 2688.12,-324.8 2682.12,-318.8 2682.12,-312.8 2682.12,-312.8 2682.12,-278.4 2682.12,-278.4 2682.12,-272.4 2688.12,-266.4 2694.12,-266.4 2694.12,-266.4 2873.65,-266.4 2873.65,-266.4 2879.65,-266.4 2885.65,-272.4 2885.65,-278.4 2885.65,-278.4 2885.65,-312.8 2885.65,-312.8 2885.65,-318.8 2879.65,-324.8 2873.65,-324.8"/>
+<text text-anchor="start" x="2690.12" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 32.604</text>
+<text text-anchor="start" x="2738.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 255</text>
+<text text-anchor="start" x="2732.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 50&#45;&gt;51 -->
+<g id="edge51" class="edge">
+<title>50-&gt;51</title>
+<path fill="none" stroke="black" d="M2785.96,-360.52C2785.71,-352.97 2785.44,-344.67 2785.18,-336.63"/>
+<polygon fill="black" stroke="black" points="2788.68,-336.54 2784.86,-326.65 2781.68,-336.76 2788.68,-336.54"/>
+</g>
+<!-- 62 -->
+<g id="node63" class="node">
+<title>62</title>
+<path fill="#e78a47" stroke="black" d="M3094.13,-324.8C3094.13,-324.8 2977.63,-324.8 2977.63,-324.8 2971.63,-324.8 2965.63,-318.8 2965.63,-312.8 2965.63,-312.8 2965.63,-278.4 2965.63,-278.4 2965.63,-272.4 2971.63,-266.4 2977.63,-266.4 2977.63,-266.4 3094.13,-266.4 3094.13,-266.4 3100.13,-266.4 3106.13,-272.4 3106.13,-278.4 3106.13,-278.4 3106.13,-312.8 3106.13,-312.8 3106.13,-318.8 3100.13,-324.8 3094.13,-324.8"/>
+<text text-anchor="start" x="2973.63" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">mode__NINQ ≤ 1.5</text>
+<text text-anchor="start" x="2990.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 458</text>
+<text text-anchor="start" x="2984.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 50&#45;&gt;62 -->
+<g id="edge62" class="edge">
+<title>50-&gt;62</title>
+<path fill="none" stroke="black" d="M2858.9,-362.27C2888.84,-351.17 2923.73,-338.22 2954.58,-326.77"/>
+<polygon fill="black" stroke="black" points="2955.73,-330.07 2963.89,-323.31 2953.3,-323.51 2955.73,-330.07"/>
+</g>
+<!-- 52 -->
+<g id="node53" class="node">
+<title>52</title>
+<path fill="#f4caac" stroke="black" d="M2636.95,-230.4C2636.95,-230.4 2434.81,-230.4 2434.81,-230.4 2428.81,-230.4 2422.81,-224.4 2422.81,-218.4 2422.81,-218.4 2422.81,-184 2422.81,-184 2422.81,-178 2428.81,-172 2434.81,-172 2434.81,-172 2636.95,-172 2636.95,-172 2642.95,-172 2648.95,-178 2648.95,-184 2648.95,-184 2648.95,-218.4 2648.95,-218.4 2648.95,-224.4 2642.95,-230.4 2636.95,-230.4"/>
+<text text-anchor="start" x="2430.81" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.95</text>
+<text text-anchor="start" x="2494.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 88</text>
+<text text-anchor="start" x="2484.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 51&#45;&gt;52 -->
+<g id="edge52" class="edge">
+<title>51-&gt;52</title>
+<path fill="none" stroke="black" d="M2707.11,-266C2680.61,-256.12 2650.73,-244.99 2623.43,-234.82"/>
+<polygon fill="black" stroke="black" points="2624.73,-231.57 2614.13,-231.36 2622.28,-238.13 2624.73,-231.57"/>
+</g>
+<!-- 57 -->
+<g id="node58" class="node">
+<title>57</title>
+<path fill="#e78a48" stroke="black" d="M2888.85,-230.4C2888.85,-230.4 2678.92,-230.4 2678.92,-230.4 2672.92,-230.4 2666.92,-224.4 2666.92,-218.4 2666.92,-218.4 2666.92,-184 2666.92,-184 2666.92,-178 2672.92,-172 2678.92,-172 2678.92,-172 2888.85,-172 2888.85,-172 2894.85,-172 2900.85,-178 2900.85,-184 2900.85,-184 2900.85,-218.4 2900.85,-218.4 2900.85,-224.4 2894.85,-230.4 2888.85,-230.4"/>
+<text text-anchor="start" x="2674.92" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.938</text>
+<text text-anchor="start" x="2738.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 167</text>
+<text text-anchor="start" x="2732.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 51&#45;&gt;57 -->
+<g id="edge57" class="edge">
+<title>51-&gt;57</title>
+<path fill="none" stroke="black" d="M2783.88,-266.12C2783.88,-258.57 2783.88,-250.27 2783.88,-242.23"/>
+<polygon fill="black" stroke="black" points="2787.38,-242.26 2783.88,-232.26 2780.38,-242.26 2787.38,-242.26"/>
+</g>
+<!-- 53 -->
+<g id="node54" class="node">
+<title>53</title>
+<path fill="#e58139" stroke="black" d="M2425.43,-127.6C2425.43,-127.6 2330.33,-127.6 2330.33,-127.6 2324.33,-127.6 2318.33,-121.6 2318.33,-115.6 2318.33,-115.6 2318.33,-98 2318.33,-98 2318.33,-92 2324.33,-86 2330.33,-86 2330.33,-86 2425.43,-86 2425.43,-86 2431.43,-86 2437.43,-92 2437.43,-98 2437.43,-98 2437.43,-115.6 2437.43,-115.6 2437.43,-121.6 2431.43,-127.6 2425.43,-127.6"/>
+<text text-anchor="start" x="2336.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 28</text>
+<text text-anchor="start" x="2326.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 52&#45;&gt;53 -->
+<g id="edge53" class="edge">
+<title>52-&gt;53</title>
+<path fill="none" stroke="black" d="M2487.19,-171.72C2466.4,-159.57 2442.31,-145.48 2422.05,-133.63"/>
+<polygon fill="black" stroke="black" points="2423.84,-130.62 2413.44,-128.6 2420.31,-136.67 2423.84,-130.62"/>
+</g>
+<!-- 54 -->
+<g id="node55" class="node">
+<title>54</title>
+<path fill="#fdf4ee" stroke="black" d="M2606.42,-136C2606.42,-136 2467.34,-136 2467.34,-136 2461.34,-136 2455.34,-130 2455.34,-124 2455.34,-124 2455.34,-89.6 2455.34,-89.6 2455.34,-83.6 2461.34,-77.6 2467.34,-77.6 2467.34,-77.6 2606.42,-77.6 2606.42,-77.6 2612.42,-77.6 2618.42,-83.6 2618.42,-89.6 2618.42,-89.6 2618.42,-124 2618.42,-124 2618.42,-130 2612.42,-136 2606.42,-136"/>
+<text text-anchor="start" x="2463.34" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 26.5</text>
+<text text-anchor="start" x="2495.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 60</text>
+<text text-anchor="start" x="2485.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 52&#45;&gt;54 -->
+<g id="edge54" class="edge">
+<title>52-&gt;54</title>
+<path fill="none" stroke="black" d="M2536.19,-171.72C2536.27,-164.17 2536.36,-155.87 2536.45,-147.83"/>
+<polygon fill="black" stroke="black" points="2539.95,-147.89 2536.56,-137.86 2532.95,-147.82 2539.95,-147.89"/>
+</g>
+<!-- 55 -->
+<g id="node56" class="node">
+<title>55</title>
+<path fill="#f3c5a4" stroke="black" d="M2452.43,-41.6C2452.43,-41.6 2357.33,-41.6 2357.33,-41.6 2351.33,-41.6 2345.33,-35.6 2345.33,-29.6 2345.33,-29.6 2345.33,-12 2345.33,-12 2345.33,-6 2351.33,0 2357.33,0 2357.33,0 2452.43,0 2452.43,0 2458.43,0 2464.43,-6 2464.43,-12 2464.43,-12 2464.43,-29.6 2464.43,-29.6 2464.43,-35.6 2458.43,-41.6 2452.43,-41.6"/>
+<text text-anchor="start" x="2363.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 51</text>
+<text text-anchor="start" x="2353.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 54&#45;&gt;55 -->
+<g id="edge55" class="edge">
+<title>54-&gt;55</title>
+<path fill="none" stroke="black" d="M2491.82,-77.13C2477.02,-67.7 2460.64,-57.28 2446.13,-48.05"/>
+<polygon fill="black" stroke="black" points="2448.02,-45.1 2437.7,-42.69 2444.26,-51.01 2448.02,-45.1"/>
+</g>
+<!-- 56 -->
+<g id="node57" class="node">
+<title>56</title>
+<path fill="#60b0ea" stroke="black" d="M2579.76,-41.6C2579.76,-41.6 2494,-41.6 2494,-41.6 2488,-41.6 2482,-35.6 2482,-29.6 2482,-29.6 2482,-12 2482,-12 2482,-6 2488,0 2494,0 2494,0 2579.76,0 2579.76,0 2585.76,0 2591.76,-6 2591.76,-12 2591.76,-12 2591.76,-29.6 2591.76,-29.6 2591.76,-35.6 2585.76,-41.6 2579.76,-41.6"/>
+<text text-anchor="start" x="2498.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="2490" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 54&#45;&gt;56 -->
+<g id="edge56" class="edge">
+<title>54-&gt;56</title>
+<path fill="none" stroke="black" d="M2536.88,-77.36C2536.88,-69.65 2536.88,-61.25 2536.88,-53.38"/>
+<polygon fill="black" stroke="black" points="2540.38,-53.5 2536.88,-43.5 2533.38,-53.5 2540.38,-53.5"/>
+</g>
+<!-- 58 -->
+<g id="node59" class="node">
+<title>58</title>
+<path fill="#e9975b" stroke="black" d="M2768.13,-136C2768.13,-136 2651.63,-136 2651.63,-136 2645.63,-136 2639.63,-130 2639.63,-124 2639.63,-124 2639.63,-89.6 2639.63,-89.6 2639.63,-83.6 2645.63,-77.6 2651.63,-77.6 2651.63,-77.6 2768.13,-77.6 2768.13,-77.6 2774.13,-77.6 2780.13,-83.6 2780.13,-89.6 2780.13,-89.6 2780.13,-124 2780.13,-124 2780.13,-130 2774.13,-136 2768.13,-136"/>
+<text text-anchor="start" x="2647.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">mode__NINQ ≤ 0.5</text>
+<text text-anchor="start" x="2668.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 74</text>
+<text text-anchor="start" x="2658.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 57&#45;&gt;58 -->
+<g id="edge58" class="edge">
+<title>57-&gt;58</title>
+<path fill="none" stroke="black" d="M2761.07,-171.72C2754.39,-163.38 2746.98,-154.13 2739.92,-145.31"/>
+<polygon fill="black" stroke="black" points="2742.67,-143.14 2733.69,-137.52 2737.2,-147.52 2742.67,-143.14"/>
+</g>
+<!-- 61 -->
+<g id="node62" class="node">
+<title>61</title>
+<path fill="#e58139" stroke="black" d="M2905.43,-127.6C2905.43,-127.6 2810.33,-127.6 2810.33,-127.6 2804.33,-127.6 2798.33,-121.6 2798.33,-115.6 2798.33,-115.6 2798.33,-98 2798.33,-98 2798.33,-92 2804.33,-86 2810.33,-86 2810.33,-86 2905.43,-86 2905.43,-86 2911.43,-86 2917.43,-92 2917.43,-98 2917.43,-98 2917.43,-115.6 2917.43,-115.6 2917.43,-121.6 2911.43,-127.6 2905.43,-127.6"/>
+<text text-anchor="start" x="2816.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 93</text>
+<text text-anchor="start" x="2806.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 57&#45;&gt;61 -->
+<g id="edge61" class="edge">
+<title>57-&gt;61</title>
+<path fill="none" stroke="black" d="M2806.69,-171.72C2815.58,-160.62 2825.76,-147.91 2834.69,-136.76"/>
+<polygon fill="black" stroke="black" points="2837.37,-139.01 2840.89,-129.01 2831.91,-134.63 2837.37,-139.01"/>
+</g>
+<!-- 59 -->
+<g id="node60" class="node">
+<title>59</title>
+<path fill="#f0b88f" stroke="black" d="M2716.43,-41.6C2716.43,-41.6 2621.33,-41.6 2621.33,-41.6 2615.33,-41.6 2609.33,-35.6 2609.33,-29.6 2609.33,-29.6 2609.33,-12 2609.33,-12 2609.33,-6 2615.33,0 2621.33,0 2621.33,0 2716.43,0 2716.43,0 2722.43,0 2728.43,-6 2728.43,-12 2728.43,-12 2728.43,-29.6 2728.43,-29.6 2728.43,-35.6 2722.43,-41.6 2716.43,-41.6"/>
+<text text-anchor="start" x="2627.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 31</text>
+<text text-anchor="start" x="2617.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 58&#45;&gt;59 -->
+<g id="edge59" class="edge">
+<title>58-&gt;59</title>
+<path fill="none" stroke="black" d="M2696,-77.36C2692.06,-69.29 2687.75,-60.46 2683.75,-52.27"/>
+<polygon fill="black" stroke="black" points="2686.93,-50.8 2679.4,-43.35 2680.64,-53.87 2686.93,-50.8"/>
+</g>
+<!-- 60 -->
+<g id="node61" class="node">
+<title>60</title>
+<path fill="#e58139" stroke="black" d="M2853.43,-41.6C2853.43,-41.6 2758.33,-41.6 2758.33,-41.6 2752.33,-41.6 2746.33,-35.6 2746.33,-29.6 2746.33,-29.6 2746.33,-12 2746.33,-12 2746.33,-6 2752.33,0 2758.33,0 2758.33,0 2853.43,0 2853.43,0 2859.43,0 2865.43,-6 2865.43,-12 2865.43,-12 2865.43,-29.6 2865.43,-29.6 2865.43,-35.6 2859.43,-41.6 2853.43,-41.6"/>
+<text text-anchor="start" x="2764.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 43</text>
+<text text-anchor="start" x="2754.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 58&#45;&gt;60 -->
+<g id="edge60" class="edge">
+<title>58-&gt;60</title>
+<path fill="none" stroke="black" d="M2742.65,-77.13C2752.9,-68.16 2764.19,-58.28 2774.35,-49.39"/>
+<polygon fill="black" stroke="black" points="2776.58,-52.09 2781.8,-42.87 2771.97,-46.82 2776.58,-52.09"/>
+</g>
+<!-- 63 -->
+<g id="node64" class="node">
+<title>63</title>
+<path fill="#e88e4d" stroke="black" d="M3140.85,-230.4C3140.85,-230.4 2930.92,-230.4 2930.92,-230.4 2924.92,-230.4 2918.92,-224.4 2918.92,-218.4 2918.92,-218.4 2918.92,-184 2918.92,-184 2918.92,-178 2924.92,-172 2930.92,-172 2930.92,-172 3140.85,-172 3140.85,-172 3146.85,-172 3152.85,-178 3152.85,-184 3152.85,-184 3152.85,-218.4 3152.85,-218.4 3152.85,-224.4 3146.85,-230.4 3140.85,-230.4"/>
+<text text-anchor="start" x="2926.92" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.927</text>
+<text text-anchor="start" x="2990.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 333</text>
+<text text-anchor="start" x="2984.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 62&#45;&gt;63 -->
+<g id="edge63" class="edge">
+<title>62-&gt;63</title>
+<path fill="none" stroke="black" d="M3035.88,-266.12C3035.88,-258.57 3035.88,-250.27 3035.88,-242.23"/>
+<polygon fill="black" stroke="black" points="3039.38,-242.26 3035.88,-232.26 3032.38,-242.26 3039.38,-242.26"/>
+</g>
+<!-- 70 -->
+<g id="node71" class="node">
+<title>70</title>
+<path fill="#e58139" stroke="black" d="M3278.43,-222C3278.43,-222 3183.33,-222 3183.33,-222 3177.33,-222 3171.33,-216 3171.33,-210 3171.33,-210 3171.33,-192.4 3171.33,-192.4 3171.33,-186.4 3177.33,-180.4 3183.33,-180.4 3183.33,-180.4 3278.43,-180.4 3278.43,-180.4 3284.43,-180.4 3290.43,-186.4 3290.43,-192.4 3290.43,-192.4 3290.43,-210 3290.43,-210 3290.43,-216 3284.43,-222 3278.43,-222"/>
+<text text-anchor="start" x="3185.16" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 125</text>
+<text text-anchor="start" x="3179.33" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 62&#45;&gt;70 -->
+<g id="edge70" class="edge">
+<title>62-&gt;70</title>
+<path fill="none" stroke="black" d="M3096.24,-266C3122.4,-253.61 3152.74,-239.23 3177.99,-227.26"/>
+<polygon fill="black" stroke="black" points="3179.2,-230.56 3186.74,-223.11 3176.21,-224.23 3179.2,-230.56"/>
+</g>
+<!-- 64 -->
+<g id="node65" class="node">
+<title>64</title>
+<path fill="#eca572" stroke="black" d="M3120.38,-136C3120.38,-136 2949.38,-136 2949.38,-136 2943.38,-136 2937.38,-130 2937.38,-124 2937.38,-124 2937.38,-89.6 2937.38,-89.6 2937.38,-83.6 2943.38,-77.6 2949.38,-77.6 2949.38,-77.6 3120.38,-77.6 3120.38,-77.6 3126.38,-77.6 3132.38,-83.6 3132.38,-89.6 3132.38,-89.6 3132.38,-124 3132.38,-124 3132.38,-130 3126.38,-136 3120.38,-136"/>
+<text text-anchor="start" x="2945.38" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 250.995</text>
+<text text-anchor="start" x="2993.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 76</text>
+<text text-anchor="start" x="2983.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 63&#45;&gt;64 -->
+<g id="edge64" class="edge">
+<title>63-&gt;64</title>
+<path fill="none" stroke="black" d="M3035.57,-171.72C3035.49,-164.17 3035.4,-155.87 3035.31,-147.83"/>
+<polygon fill="black" stroke="black" points="3038.81,-147.82 3035.21,-137.86 3031.81,-147.89 3038.81,-147.82"/>
+</g>
+<!-- 67 -->
+<g id="node68" class="node">
+<title>67</title>
+<path fill="#e68743" stroke="black" d="M3341.65,-136C3341.65,-136 3162.12,-136 3162.12,-136 3156.12,-136 3150.12,-130 3150.12,-124 3150.12,-124 3150.12,-89.6 3150.12,-89.6 3150.12,-83.6 3156.12,-77.6 3162.12,-77.6 3162.12,-77.6 3341.65,-77.6 3341.65,-77.6 3347.65,-77.6 3353.65,-83.6 3353.65,-89.6 3353.65,-89.6 3353.65,-124 3353.65,-124 3353.65,-130 3347.65,-136 3341.65,-136"/>
+<text text-anchor="start" x="3158.12" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 42.826</text>
+<text text-anchor="start" x="3206.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 257</text>
+<text text-anchor="start" x="3200.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 63&#45;&gt;67 -->
+<g id="edge67" class="edge">
+<title>63-&gt;67</title>
+<path fill="none" stroke="black" d="M3102.75,-171.6C3125.52,-161.86 3151.16,-150.89 3174.68,-140.83"/>
+<polygon fill="black" stroke="black" points="3175.75,-144.17 3183.57,-137.02 3173,-137.74 3175.75,-144.17"/>
+</g>
+<!-- 65 -->
+<g id="node66" class="node">
+<title>65</title>
+<path fill="#e78b48" stroke="black" d="M2990.43,-41.6C2990.43,-41.6 2895.33,-41.6 2895.33,-41.6 2889.33,-41.6 2883.33,-35.6 2883.33,-29.6 2883.33,-29.6 2883.33,-12 2883.33,-12 2883.33,-6 2889.33,0 2895.33,0 2895.33,0 2990.43,0 2990.43,0 2996.43,0 3002.43,-6 3002.43,-12 3002.43,-12 3002.43,-29.6 3002.43,-29.6 3002.43,-35.6 2996.43,-41.6 2990.43,-41.6"/>
+<text text-anchor="start" x="2901.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 53</text>
+<text text-anchor="start" x="2891.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 64&#45;&gt;65 -->
+<g id="edge65" class="edge">
+<title>64-&gt;65</title>
+<path fill="none" stroke="black" d="M3003.48,-77.13C2993.65,-68.16 2982.84,-58.28 2973.1,-49.39"/>
+<polygon fill="black" stroke="black" points="2975.73,-47.05 2965.99,-42.9 2971.01,-52.22 2975.73,-47.05"/>
+</g>
+<!-- 66 -->
+<g id="node67" class="node">
+<title>66</title>
+<path fill="#fbede2" stroke="black" d="M3127.43,-41.6C3127.43,-41.6 3032.33,-41.6 3032.33,-41.6 3026.33,-41.6 3020.33,-35.6 3020.33,-29.6 3020.33,-29.6 3020.33,-12 3020.33,-12 3020.33,-6 3026.33,0 3032.33,0 3032.33,0 3127.43,0 3127.43,0 3133.43,0 3139.43,-6 3139.43,-12 3139.43,-12 3139.43,-29.6 3139.43,-29.6 3139.43,-35.6 3133.43,-41.6 3127.43,-41.6"/>
+<text text-anchor="start" x="3038.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 23</text>
+<text text-anchor="start" x="3028.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 64&#45;&gt;66 -->
+<g id="edge66" class="edge">
+<title>64-&gt;66</title>
+<path fill="none" stroke="black" d="M3050.12,-77.36C3054.49,-69.2 3059.28,-60.26 3063.7,-52"/>
+<polygon fill="black" stroke="black" points="3066.71,-53.79 3068.35,-43.32 3060.54,-50.48 3066.71,-53.79"/>
+</g>
+<!-- 68 -->
+<g id="node69" class="node">
+<title>68</title>
+<path fill="#e5833c" stroke="black" d="M3264.43,-41.6C3264.43,-41.6 3169.33,-41.6 3169.33,-41.6 3163.33,-41.6 3157.33,-35.6 3157.33,-29.6 3157.33,-29.6 3157.33,-12 3157.33,-12 3157.33,-6 3163.33,0 3169.33,0 3169.33,0 3264.43,0 3264.43,0 3270.43,0 3276.43,-6 3276.43,-12 3276.43,-12 3276.43,-29.6 3276.43,-29.6 3276.43,-35.6 3270.43,-41.6 3264.43,-41.6"/>
+<text text-anchor="start" x="3171.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 247</text>
+<text text-anchor="start" x="3165.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 67&#45;&gt;68 -->
+<g id="edge68" class="edge">
+<title>67-&gt;68</title>
+<path fill="none" stroke="black" d="M3240.03,-77.36C3236.7,-69.38 3233.07,-60.66 3229.69,-52.55"/>
+<polygon fill="black" stroke="black" points="3232.95,-51.27 3225.87,-43.38 3226.49,-53.96 3232.95,-51.27"/>
+</g>
+<!-- 69 -->
+<g id="node70" class="node">
+<title>69</title>
+<path fill="#fcfdff" stroke="black" d="M3391.76,-41.6C3391.76,-41.6 3306,-41.6 3306,-41.6 3300,-41.6 3294,-35.6 3294,-29.6 3294,-29.6 3294,-12 3294,-12 3294,-6 3300,0 3306,0 3306,0 3391.76,0 3391.76,0 3397.76,0 3403.76,-6 3403.76,-12 3403.76,-12 3403.76,-29.6 3403.76,-29.6 3403.76,-35.6 3397.76,-41.6 3391.76,-41.6"/>
+<text text-anchor="start" x="3307.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 10</text>
+<text text-anchor="start" x="3302" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 67&#45;&gt;69 -->
+<g id="edge69" class="edge">
+<title>67-&gt;69</title>
+<path fill="none" stroke="black" d="M3284.99,-77.13C3295.35,-68.16 3306.75,-58.28 3317.02,-49.39"/>
+<polygon fill="black" stroke="black" points="3319.29,-52.06 3324.55,-42.87 3314.7,-46.77 3319.29,-52.06"/>
+</g>
+<!-- 72 -->
+<g id="node73" class="node">
+<title>72</title>
+<path fill="#f9e1cf" stroke="black" d="M4018.52,-513.6C4018.52,-513.6 3785.24,-513.6 3785.24,-513.6 3779.24,-513.6 3773.24,-507.6 3773.24,-501.6 3773.24,-501.6 3773.24,-467.2 3773.24,-467.2 3773.24,-461.2 3779.24,-455.2 3785.24,-455.2 3785.24,-455.2 4018.52,-455.2 4018.52,-455.2 4024.52,-455.2 4030.52,-461.2 4030.52,-467.2 4030.52,-467.2 4030.52,-501.6 4030.52,-501.6 4030.52,-507.6 4024.52,-513.6 4018.52,-513.6"/>
+<text text-anchor="start" x="3781.24" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 5003.283</text>
+<text text-anchor="start" x="3856.16" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 445</text>
+<text text-anchor="start" x="3850.33" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 71&#45;&gt;72 -->
+<g id="edge72" class="edge">
+<title>71-&gt;72</title>
+<path fill="none" stroke="black" d="M3971.75,-549.32C3962.15,-540.54 3951.45,-530.75 3941.37,-521.52"/>
+<polygon fill="black" stroke="black" points="3943.94,-519.13 3934.2,-514.96 3939.21,-524.3 3943.94,-519.13"/>
+</g>
+<!-- 89 -->
+<g id="node90" class="node">
+<title>89</title>
+<path fill="#3d9fe6" stroke="black" d="M4146.76,-505.2C4146.76,-505.2 4061,-505.2 4061,-505.2 4055,-505.2 4049,-499.2 4049,-493.2 4049,-493.2 4049,-475.6 4049,-475.6 4049,-469.6 4055,-463.6 4061,-463.6 4061,-463.6 4146.76,-463.6 4146.76,-463.6 4152.76,-463.6 4158.76,-469.6 4158.76,-475.6 4158.76,-475.6 4158.76,-493.2 4158.76,-493.2 4158.76,-499.2 4152.76,-505.2 4146.76,-505.2"/>
+<text text-anchor="start" x="4062.05" y="-488.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 13</text>
+<text text-anchor="start" x="4057" y="-471.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 71&#45;&gt;89 -->
+<g id="edge89" class="edge">
+<title>71-&gt;89</title>
+<path fill="none" stroke="black" d="M4034.01,-549.32C4046.63,-537.78 4061.15,-524.49 4073.68,-513.03"/>
+<polygon fill="black" stroke="black" points="4075.85,-515.79 4080.87,-506.46 4071.13,-510.62 4075.85,-515.79"/>
+</g>
+<!-- 73 -->
+<g id="node74" class="node">
+<title>73</title>
+<path fill="#f6d1b7" stroke="black" d="M3893.03,-419.2C3893.03,-419.2 3712.73,-419.2 3712.73,-419.2 3706.73,-419.2 3700.73,-413.2 3700.73,-407.2 3700.73,-407.2 3700.73,-372.8 3700.73,-372.8 3700.73,-366.8 3706.73,-360.8 3712.73,-360.8 3712.73,-360.8 3893.03,-360.8 3893.03,-360.8 3899.03,-360.8 3905.03,-366.8 3905.03,-372.8 3905.03,-372.8 3905.03,-407.2 3905.03,-407.2 3905.03,-413.2 3899.03,-419.2 3893.03,-419.2"/>
+<text text-anchor="start" x="3708.73" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">num__DEROG_missing ≤ 0.5</text>
+<text text-anchor="start" x="3757.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 428</text>
+<text text-anchor="start" x="3751.33" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 72&#45;&gt;73 -->
+<g id="edge73" class="edge">
+<title>72-&gt;73</title>
+<path fill="none" stroke="black" d="M3871.37,-454.92C3861.96,-446.14 3851.47,-436.35 3841.59,-427.12"/>
+<polygon fill="black" stroke="black" points="3844.27,-424.84 3834.57,-420.57 3839.49,-429.96 3844.27,-424.84"/>
+</g>
+<!-- 86 -->
+<g id="node87" class="node">
+<title>86</title>
+<path fill="#4da7e8" stroke="black" d="M4068.69,-419.2C4068.69,-419.2 3935.07,-419.2 3935.07,-419.2 3929.07,-419.2 3923.07,-413.2 3923.07,-407.2 3923.07,-407.2 3923.07,-372.8 3923.07,-372.8 3923.07,-366.8 3929.07,-360.8 3935.07,-360.8 3935.07,-360.8 4068.69,-360.8 4068.69,-360.8 4074.69,-360.8 4080.69,-366.8 4080.69,-372.8 4080.69,-372.8 4080.69,-407.2 4080.69,-407.2 4080.69,-413.2 4074.69,-419.2 4068.69,-419.2"/>
+<text text-anchor="start" x="3931.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 1.5</text>
+<text text-anchor="start" x="3960.05" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 17</text>
+<text text-anchor="start" x="3955" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 72&#45;&gt;86 -->
+<g id="edge86" class="edge">
+<title>72-&gt;86</title>
+<path fill="none" stroke="black" d="M3932.7,-454.92C3942.2,-446.14 3952.8,-436.35 3962.78,-427.12"/>
+<polygon fill="black" stroke="black" points="3964.91,-429.93 3969.88,-420.57 3960.16,-424.79 3964.91,-429.93"/>
+</g>
+<!-- 74 -->
+<g id="node75" class="node">
+<title>74</title>
+<path fill="#f9e0ce" stroke="black" d="M3683.13,-324.8C3683.13,-324.8 3566.63,-324.8 3566.63,-324.8 3560.63,-324.8 3554.63,-318.8 3554.63,-312.8 3554.63,-312.8 3554.63,-278.4 3554.63,-278.4 3554.63,-272.4 3560.63,-266.4 3566.63,-266.4 3566.63,-266.4 3683.13,-266.4 3683.13,-266.4 3689.13,-266.4 3695.13,-272.4 3695.13,-278.4 3695.13,-278.4 3695.13,-312.8 3695.13,-312.8 3695.13,-318.8 3689.13,-324.8 3683.13,-324.8"/>
+<text text-anchor="start" x="3562.63" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">mode__NINQ ≤ 3.5</text>
+<text text-anchor="start" x="3579.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 364</text>
+<text text-anchor="start" x="3573.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 73&#45;&gt;74 -->
+<g id="edge74" class="edge">
+<title>73-&gt;74</title>
+<path fill="none" stroke="black" d="M3748.02,-360.52C3729.67,-350.99 3709.03,-340.28 3689.97,-330.39"/>
+<polygon fill="black" stroke="black" points="3691.7,-327.34 3681.21,-325.84 3688.47,-333.55 3691.7,-327.34"/>
+</g>
+<!-- 83 -->
+<g id="node84" class="node">
+<title>83</title>
+<path fill="#e78946" stroke="black" d="M3904.65,-324.8C3904.65,-324.8 3725.12,-324.8 3725.12,-324.8 3719.12,-324.8 3713.12,-318.8 3713.12,-312.8 3713.12,-312.8 3713.12,-278.4 3713.12,-278.4 3713.12,-272.4 3719.12,-266.4 3725.12,-266.4 3725.12,-266.4 3904.65,-266.4 3904.65,-266.4 3910.65,-266.4 3916.65,-272.4 3916.65,-278.4 3916.65,-278.4 3916.65,-312.8 3916.65,-312.8 3916.65,-318.8 3910.65,-324.8 3904.65,-324.8"/>
+<text text-anchor="start" x="3721.12" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 41.114</text>
+<text text-anchor="start" x="3773.05" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 64</text>
+<text text-anchor="start" x="3763.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 73&#45;&gt;83 -->
+<g id="edge83" class="edge">
+<title>73-&gt;83</title>
+<path fill="none" stroke="black" d="M3806.58,-360.52C3807.57,-352.88 3808.66,-344.48 3809.72,-336.35"/>
+<polygon fill="black" stroke="black" points="3813.16,-337.01 3810.98,-326.64 3806.22,-336.11 3813.16,-337.01"/>
+</g>
+<!-- 75 -->
+<g id="node76" class="node">
+<title>75</title>
+<path fill="#f6d2b8" stroke="black" d="M3597.69,-230.4C3597.69,-230.4 3464.07,-230.4 3464.07,-230.4 3458.07,-230.4 3452.07,-224.4 3452.07,-218.4 3452.07,-218.4 3452.07,-184 3452.07,-184 3452.07,-178 3458.07,-172 3464.07,-172 3464.07,-172 3597.69,-172 3597.69,-172 3603.69,-172 3609.69,-178 3609.69,-184 3609.69,-184 3609.69,-218.4 3609.69,-218.4 3609.69,-224.4 3603.69,-230.4 3597.69,-230.4"/>
+<text text-anchor="start" x="3460.07" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 1.5</text>
+<text text-anchor="start" x="3485.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 351</text>
+<text text-anchor="start" x="3479.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 74&#45;&gt;75 -->
+<g id="edge75" class="edge">
+<title>74-&gt;75</title>
+<path fill="none" stroke="black" d="M3595.91,-266.12C3587.07,-257.43 3577.22,-247.75 3567.91,-238.6"/>
+<polygon fill="black" stroke="black" points="3570.58,-236.32 3561,-231.8 3565.67,-241.31 3570.58,-236.32"/>
+</g>
+<!-- 82 -->
+<g id="node83" class="node">
+<title>82</title>
+<path fill="#4fa8e8" stroke="black" d="M3725.76,-222C3725.76,-222 3640,-222 3640,-222 3634,-222 3628,-216 3628,-210 3628,-210 3628,-192.4 3628,-192.4 3628,-186.4 3634,-180.4 3640,-180.4 3640,-180.4 3725.76,-180.4 3725.76,-180.4 3731.76,-180.4 3737.76,-186.4 3737.76,-192.4 3737.76,-192.4 3737.76,-210 3737.76,-210 3737.76,-216 3731.76,-222 3725.76,-222"/>
+<text text-anchor="start" x="3641.05" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 13</text>
+<text text-anchor="start" x="3636" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 74&#45;&gt;82 -->
+<g id="edge82" class="edge">
+<title>74-&gt;82</title>
+<path fill="none" stroke="black" d="M3642.76,-266.12C3649.59,-255.24 3657.39,-242.82 3664.28,-231.83"/>
+<polygon fill="black" stroke="black" points="3667.15,-233.85 3669.5,-223.52 3661.22,-230.12 3667.15,-233.85"/>
+</g>
+<!-- 76 -->
+<g id="node77" class="node">
+<title>76</title>
+<path fill="#f0b68c" stroke="black" d="M3594.59,-136C3594.59,-136 3467.17,-136 3467.17,-136 3461.17,-136 3455.17,-130 3455.17,-124 3455.17,-124 3455.17,-89.6 3455.17,-89.6 3455.17,-83.6 3461.17,-77.6 3467.17,-77.6 3467.17,-77.6 3594.59,-77.6 3594.59,-77.6 3600.59,-77.6 3606.59,-83.6 3606.59,-89.6 3606.59,-89.6 3606.59,-124 3606.59,-124 3606.59,-130 3600.59,-136 3594.59,-136"/>
+<text text-anchor="start" x="3463.17" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 16.5</text>
+<text text-anchor="start" x="3485.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 225</text>
+<text text-anchor="start" x="3479.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 75&#45;&gt;76 -->
+<g id="edge76" class="edge">
+<title>75-&gt;76</title>
+<path fill="none" stroke="black" d="M3530.88,-171.72C3530.88,-164.17 3530.88,-155.87 3530.88,-147.83"/>
+<polygon fill="black" stroke="black" points="3534.38,-147.86 3530.88,-137.86 3527.38,-147.86 3534.38,-147.86"/>
+</g>
+<!-- 79 -->
+<g id="node80" class="node">
+<title>79</title>
+<path fill="#ecf5fc" stroke="black" d="M3813.59,-136C3813.59,-136 3686.17,-136 3686.17,-136 3680.17,-136 3674.17,-130 3674.17,-124 3674.17,-124 3674.17,-89.6 3674.17,-89.6 3674.17,-83.6 3680.17,-77.6 3686.17,-77.6 3686.17,-77.6 3813.59,-77.6 3813.59,-77.6 3819.59,-77.6 3825.59,-83.6 3825.59,-89.6 3825.59,-89.6 3825.59,-124 3825.59,-124 3825.59,-130 3819.59,-136 3813.59,-136"/>
+<text text-anchor="start" x="3682.17" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 25.5</text>
+<text text-anchor="start" x="3704.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 126</text>
+<text text-anchor="start" x="3703" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 75&#45;&gt;79 -->
+<g id="edge79" class="edge">
+<title>75-&gt;79</title>
+<path fill="none" stroke="black" d="M3598.67,-171.6C3621.76,-161.86 3647.76,-150.89 3671.6,-140.83"/>
+<polygon fill="black" stroke="black" points="3672.78,-144.13 3680.64,-137.02 3670.06,-137.68 3672.78,-144.13"/>
+</g>
+<!-- 77 -->
+<g id="node78" class="node">
+<title>77</title>
+<path fill="#f2c19e" stroke="black" d="M3528.43,-41.6C3528.43,-41.6 3433.33,-41.6 3433.33,-41.6 3427.33,-41.6 3421.33,-35.6 3421.33,-29.6 3421.33,-29.6 3421.33,-12 3421.33,-12 3421.33,-6 3427.33,0 3433.33,0 3433.33,0 3528.43,0 3528.43,0 3534.43,0 3540.43,-6 3540.43,-12 3540.43,-12 3540.43,-29.6 3540.43,-29.6 3540.43,-35.6 3534.43,-41.6 3528.43,-41.6"/>
+<text text-anchor="start" x="3435.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 189</text>
+<text text-anchor="start" x="3429.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 76&#45;&gt;77 -->
+<g id="edge77" class="edge">
+<title>76-&gt;77</title>
+<path fill="none" stroke="black" d="M3513.95,-77.36C3509.04,-69.11 3503.66,-60.07 3498.69,-51.72"/>
+<polygon fill="black" stroke="black" points="3501.79,-50.09 3493.67,-43.29 3495.78,-53.67 3501.79,-50.09"/>
+</g>
+<!-- 78 -->
+<g id="node79" class="node">
+<title>78</title>
+<path fill="#e58139" stroke="black" d="M3665.43,-41.6C3665.43,-41.6 3570.33,-41.6 3570.33,-41.6 3564.33,-41.6 3558.33,-35.6 3558.33,-29.6 3558.33,-29.6 3558.33,-12 3558.33,-12 3558.33,-6 3564.33,0 3570.33,0 3570.33,0 3665.43,0 3665.43,0 3671.43,0 3677.43,-6 3677.43,-12 3677.43,-12 3677.43,-29.6 3677.43,-29.6 3677.43,-35.6 3671.43,-41.6 3665.43,-41.6"/>
+<text text-anchor="start" x="3576.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 36</text>
+<text text-anchor="start" x="3566.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 76&#45;&gt;78 -->
+<g id="edge78" class="edge">
+<title>76-&gt;78</title>
+<path fill="none" stroke="black" d="M3560.34,-77.36C3569.54,-68.47 3579.69,-58.67 3588.87,-49.81"/>
+<polygon fill="black" stroke="black" points="3591.12,-52.5 3595.88,-43.04 3586.26,-47.47 3591.12,-52.5"/>
+</g>
+<!-- 80 -->
+<g id="node81" class="node">
+<title>80</title>
+<path fill="#d4eaf9" stroke="black" d="M3792.76,-41.6C3792.76,-41.6 3707,-41.6 3707,-41.6 3701,-41.6 3695,-35.6 3695,-29.6 3695,-29.6 3695,-12 3695,-12 3695,-6 3701,0 3707,0 3707,0 3792.76,0 3792.76,0 3798.76,0 3804.76,-6 3804.76,-12 3804.76,-12 3804.76,-29.6 3804.76,-29.6 3804.76,-35.6 3798.76,-41.6 3792.76,-41.6"/>
+<text text-anchor="start" x="3704.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 113</text>
+<text text-anchor="start" x="3703" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 79&#45;&gt;80 -->
+<g id="edge80" class="edge">
+<title>79-&gt;80</title>
+<path fill="none" stroke="black" d="M3749.88,-77.36C3749.88,-69.65 3749.88,-61.25 3749.88,-53.38"/>
+<polygon fill="black" stroke="black" points="3753.38,-53.5 3749.88,-43.5 3746.38,-53.5 3753.38,-53.5"/>
+</g>
+<!-- 81 -->
+<g id="node82" class="node">
+<title>81</title>
+<path fill="#e58139" stroke="black" d="M3929.43,-41.6C3929.43,-41.6 3834.33,-41.6 3834.33,-41.6 3828.33,-41.6 3822.33,-35.6 3822.33,-29.6 3822.33,-29.6 3822.33,-12 3822.33,-12 3822.33,-6 3828.33,0 3834.33,0 3834.33,0 3929.43,0 3929.43,0 3935.43,0 3941.43,-6 3941.43,-12 3941.43,-12 3941.43,-29.6 3941.43,-29.6 3941.43,-35.6 3935.43,-41.6 3929.43,-41.6"/>
+<text text-anchor="start" x="3840.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 13</text>
+<text text-anchor="start" x="3830.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 79&#45;&gt;81 -->
+<g id="edge81" class="edge">
+<title>79-&gt;81</title>
+<path fill="none" stroke="black" d="M3794.94,-77.13C3809.75,-67.7 3826.12,-57.28 3840.63,-48.05"/>
+<polygon fill="black" stroke="black" points="3842.5,-51.01 3849.06,-42.69 3838.74,-45.1 3842.5,-51.01"/>
+</g>
+<!-- 84 -->
+<g id="node85" class="node">
+<title>84</title>
+<path fill="#e58139" stroke="black" d="M3862.43,-222C3862.43,-222 3767.33,-222 3767.33,-222 3761.33,-222 3755.33,-216 3755.33,-210 3755.33,-210 3755.33,-192.4 3755.33,-192.4 3755.33,-186.4 3761.33,-180.4 3767.33,-180.4 3767.33,-180.4 3862.43,-180.4 3862.43,-180.4 3868.43,-180.4 3874.43,-186.4 3874.43,-192.4 3874.43,-192.4 3874.43,-210 3874.43,-210 3874.43,-216 3868.43,-222 3862.43,-222"/>
+<text text-anchor="start" x="3773.05" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 59</text>
+<text text-anchor="start" x="3763.33" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 83&#45;&gt;84 -->
+<g id="edge84" class="edge">
+<title>83-&gt;84</title>
+<path fill="none" stroke="black" d="M3814.88,-266.12C3814.88,-255.8 3814.88,-244.08 3814.88,-233.52"/>
+<polygon fill="black" stroke="black" points="3818.38,-233.75 3814.88,-223.75 3811.38,-233.75 3818.38,-233.75"/>
+</g>
+<!-- 85 -->
+<g id="node86" class="node">
+<title>85</title>
+<path fill="#fcfdff" stroke="black" d="M3989.76,-222C3989.76,-222 3904,-222 3904,-222 3898,-222 3892,-216 3892,-210 3892,-210 3892,-192.4 3892,-192.4 3892,-186.4 3898,-180.4 3904,-180.4 3904,-180.4 3989.76,-180.4 3989.76,-180.4 3995.76,-180.4 4001.76,-186.4 4001.76,-192.4 4001.76,-192.4 4001.76,-210 4001.76,-210 4001.76,-216 3995.76,-222 3989.76,-222"/>
+<text text-anchor="start" x="3908.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="3900" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 83&#45;&gt;85 -->
+<g id="edge85" class="edge">
+<title>83-&gt;85</title>
+<path fill="none" stroke="black" d="M3855.56,-266.12C3872.69,-254.13 3892.5,-240.26 3909.29,-228.52"/>
+<polygon fill="black" stroke="black" points="3910.84,-231.7 3917.02,-223.1 3906.82,-225.97 3910.84,-231.7"/>
+</g>
+<!-- 87 -->
+<g id="node88" class="node">
+<title>87</title>
+<path fill="#76bbed" stroke="black" d="M4032.76,-316.4C4032.76,-316.4 3947,-316.4 3947,-316.4 3941,-316.4 3935,-310.4 3935,-304.4 3935,-304.4 3935,-286.8 3935,-286.8 3935,-280.8 3941,-274.8 3947,-274.8 3947,-274.8 4032.76,-274.8 4032.76,-274.8 4038.76,-274.8 4044.76,-280.8 4044.76,-286.8 4044.76,-286.8 4044.76,-304.4 4044.76,-304.4 4044.76,-310.4 4038.76,-316.4 4032.76,-316.4"/>
+<text text-anchor="start" x="3951.94" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="3943" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 86&#45;&gt;87 -->
+<g id="edge87" class="edge">
+<title>86-&gt;87</title>
+<path fill="none" stroke="black" d="M3998.18,-360.52C3996.84,-350.2 3995.32,-338.48 3993.95,-327.92"/>
+<polygon fill="black" stroke="black" points="3997.44,-327.6 3992.68,-318.13 3990.49,-328.5 3997.44,-327.6"/>
+</g>
+<!-- 88 -->
+<g id="node89" class="node">
+<title>88</title>
+<path fill="#399de5" stroke="black" d="M4160.76,-316.4C4160.76,-316.4 4075,-316.4 4075,-316.4 4069,-316.4 4063,-310.4 4063,-304.4 4063,-304.4 4063,-286.8 4063,-286.8 4063,-280.8 4069,-274.8 4075,-274.8 4075,-274.8 4160.76,-274.8 4160.76,-274.8 4166.76,-274.8 4172.76,-280.8 4172.76,-286.8 4172.76,-286.8 4172.76,-304.4 4172.76,-304.4 4172.76,-310.4 4166.76,-316.4 4160.76,-316.4"/>
+<text text-anchor="start" x="4079.94" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8</text>
+<text text-anchor="start" x="4071" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 86&#45;&gt;88 -->
+<g id="edge88" class="edge">
+<title>86-&gt;88</title>
+<path fill="none" stroke="black" d="M4037.63,-360.52C4052.41,-348.75 4069.45,-335.18 4084.02,-323.57"/>
+<polygon fill="black" stroke="black" points="4085.91,-326.54 4091.55,-317.58 4081.54,-321.07 4085.91,-326.54"/>
+</g>
+<!-- 91 -->
+<g id="node92" class="node">
+<title>91</title>
+<path fill="#66b3eb" stroke="black" d="M4890.38,-608C4890.38,-608 4719.38,-608 4719.38,-608 4713.38,-608 4707.38,-602 4707.38,-596 4707.38,-596 4707.38,-561.6 4707.38,-561.6 4707.38,-555.6 4713.38,-549.6 4719.38,-549.6 4719.38,-549.6 4890.38,-549.6 4890.38,-549.6 4896.38,-549.6 4902.38,-555.6 4902.38,-561.6 4902.38,-561.6 4902.38,-596 4902.38,-596 4902.38,-602 4896.38,-608 4890.38,-608"/>
+<text text-anchor="start" x="4715.38" y="-591.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 178.101</text>
+<text text-anchor="start" x="4759.16" y="-574.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 561</text>
+<text text-anchor="start" x="4758" y="-557.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 90&#45;&gt;91 -->
+<g id="edge91" class="edge">
+<title>90-&gt;91</title>
+<path fill="none" stroke="black" d="M4804.88,-643.72C4804.88,-636.17 4804.88,-627.87 4804.88,-619.83"/>
+<polygon fill="black" stroke="black" points="4808.38,-619.86 4804.88,-609.86 4801.38,-619.86 4808.38,-619.86"/>
+</g>
+<!-- 126 -->
+<g id="node127" class="node">
+<title>126</title>
+<path fill="#43a2e6" stroke="black" d="M5856.38,-608C5856.38,-608 5685.38,-608 5685.38,-608 5679.38,-608 5673.38,-602 5673.38,-596 5673.38,-596 5673.38,-561.6 5673.38,-561.6 5673.38,-555.6 5679.38,-549.6 5685.38,-549.6 5685.38,-549.6 5856.38,-549.6 5856.38,-549.6 5862.38,-549.6 5868.38,-555.6 5868.38,-561.6 5868.38,-561.6 5868.38,-596 5868.38,-596 5868.38,-602 5862.38,-608 5856.38,-608"/>
+<text text-anchor="start" x="5681.38" y="-591.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 345.933</text>
+<text text-anchor="start" x="5725.16" y="-574.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 324</text>
+<text text-anchor="start" x="5724" y="-557.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 90&#45;&gt;126 -->
+<g id="edge126" class="edge">
+<title>90-&gt;126</title>
+<path fill="none" stroke="black" d="M4883.93,-664.64C5056.1,-648.17 5465.24,-609.03 5661.8,-590.23"/>
+<polygon fill="black" stroke="black" points="5661.87,-593.74 5671.49,-589.31 5661.2,-586.77 5661.87,-593.74"/>
+</g>
+<!-- 92 -->
+<g id="node93" class="node">
+<title>92</title>
+<path fill="#53aae8" stroke="black" d="M4724.43,-513.6C4724.43,-513.6 4529.33,-513.6 4529.33,-513.6 4523.33,-513.6 4517.33,-507.6 4517.33,-501.6 4517.33,-501.6 4517.33,-467.2 4517.33,-467.2 4517.33,-461.2 4523.33,-455.2 4529.33,-455.2 4529.33,-455.2 4724.43,-455.2 4724.43,-455.2 4730.43,-455.2 4736.43,-461.2 4736.43,-467.2 4736.43,-467.2 4736.43,-501.6 4736.43,-501.6 4736.43,-507.6 4730.43,-513.6 4724.43,-513.6"/>
+<text text-anchor="start" x="4525.33" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 5101.156</text>
+<text text-anchor="start" x="4581.16" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 354</text>
+<text text-anchor="start" x="4580" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 91&#45;&gt;92 -->
+<g id="edge92" class="edge">
+<title>91-&gt;92</title>
+<path fill="none" stroke="black" d="M4750.02,-549.32C4731.67,-539.79 4711.03,-529.08 4691.97,-519.19"/>
+<polygon fill="black" stroke="black" points="4693.7,-516.14 4683.21,-514.64 4690.47,-522.35 4693.7,-516.14"/>
+</g>
+<!-- 107 -->
+<g id="node108" class="node">
+<title>107</title>
+<path fill="#a8d4f4" stroke="black" d="M5083.85,-513.6C5083.85,-513.6 4873.92,-513.6 4873.92,-513.6 4867.92,-513.6 4861.92,-507.6 4861.92,-501.6 4861.92,-501.6 4861.92,-467.2 4861.92,-467.2 4861.92,-461.2 4867.92,-455.2 4873.92,-455.2 4873.92,-455.2 5083.85,-455.2 5083.85,-455.2 5089.85,-455.2 5095.85,-461.2 5095.85,-467.2 5095.85,-467.2 5095.85,-501.6 5095.85,-501.6 5095.85,-507.6 5089.85,-513.6 5083.85,-513.6"/>
+<text text-anchor="start" x="4869.92" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.949</text>
+<text text-anchor="start" x="4933.16" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 207</text>
+<text text-anchor="start" x="4932" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 91&#45;&gt;107 -->
+<g id="edge107" class="edge">
+<title>91-&gt;107</title>
+<path fill="none" stroke="black" d="M4858.51,-549.32C4876.37,-539.84 4896.44,-529.18 4915,-519.32"/>
+<polygon fill="black" stroke="black" points="4916.61,-522.43 4923.8,-514.65 4913.32,-516.25 4916.61,-522.43"/>
+</g>
+<!-- 93 -->
+<g id="node94" class="node">
+<title>93</title>
+<path fill="#3c9fe5" stroke="black" d="M4463.65,-419.2C4463.65,-419.2 4284.12,-419.2 4284.12,-419.2 4278.12,-419.2 4272.12,-413.2 4272.12,-407.2 4272.12,-407.2 4272.12,-372.8 4272.12,-372.8 4272.12,-366.8 4278.12,-360.8 4284.12,-360.8 4284.12,-360.8 4463.65,-360.8 4463.65,-360.8 4469.65,-360.8 4475.65,-366.8 4475.65,-372.8 4475.65,-372.8 4475.65,-407.2 4475.65,-407.2 4475.65,-413.2 4469.65,-419.2 4463.65,-419.2"/>
+<text text-anchor="start" x="4280.12" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__DEBTINC ≤ 44.636</text>
+<text text-anchor="start" x="4332.05" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 48</text>
+<text text-anchor="start" x="4327" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 92&#45;&gt;93 -->
+<g id="edge93" class="edge">
+<title>92-&gt;93</title>
+<path fill="none" stroke="black" d="M4548.56,-454.8C4521.41,-444.88 4490.78,-433.69 4462.83,-423.49"/>
+<polygon fill="black" stroke="black" points="4464.28,-420.29 4453.69,-420.15 4461.88,-426.86 4464.28,-420.29"/>
+</g>
+<!-- 96 -->
+<g id="node97" class="node">
+<title>96</title>
+<path fill="#59ade9" stroke="black" d="M4693.3,-419.2C4693.3,-419.2 4560.46,-419.2 4560.46,-419.2 4554.46,-419.2 4548.46,-413.2 4548.46,-407.2 4548.46,-407.2 4548.46,-372.8 4548.46,-372.8 4548.46,-366.8 4554.46,-360.8 4560.46,-360.8 4560.46,-360.8 4693.3,-360.8 4693.3,-360.8 4699.3,-360.8 4705.3,-366.8 4705.3,-372.8 4705.3,-372.8 4705.3,-407.2 4705.3,-407.2 4705.3,-413.2 4699.3,-419.2 4693.3,-419.2"/>
+<text text-anchor="start" x="4556.46" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DEROG ≤ 0.5</text>
+<text text-anchor="start" x="4581.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 306</text>
+<text text-anchor="start" x="4580" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 92&#45;&gt;96 -->
+<g id="edge96" class="edge">
+<title>92-&gt;96</title>
+<path fill="none" stroke="black" d="M4626.88,-454.92C4626.88,-447.37 4626.88,-439.07 4626.88,-431.03"/>
+<polygon fill="black" stroke="black" points="4630.38,-431.06 4626.88,-421.06 4623.38,-431.06 4630.38,-431.06"/>
+</g>
+<!-- 94 -->
+<g id="node95" class="node">
+<title>94</title>
+<path fill="#5eafea" stroke="black" d="M4288.76,-316.4C4288.76,-316.4 4203,-316.4 4203,-316.4 4197,-316.4 4191,-310.4 4191,-304.4 4191,-304.4 4191,-286.8 4191,-286.8 4191,-280.8 4197,-274.8 4203,-274.8 4203,-274.8 4288.76,-274.8 4288.76,-274.8 4294.76,-274.8 4300.76,-280.8 4300.76,-286.8 4300.76,-286.8 4300.76,-304.4 4300.76,-304.4 4300.76,-310.4 4294.76,-316.4 4288.76,-316.4"/>
+<text text-anchor="start" x="4207.94" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 7</text>
+<text text-anchor="start" x="4199" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 93&#45;&gt;94 -->
+<g id="edge94" class="edge">
+<title>93-&gt;94</title>
+<path fill="none" stroke="black" d="M4334.43,-360.52C4317.98,-348.64 4298.97,-334.92 4282.79,-323.24"/>
+<polygon fill="black" stroke="black" points="4285.02,-320.53 4274.86,-317.52 4280.92,-326.21 4285.02,-320.53"/>
+</g>
+<!-- 95 -->
+<g id="node96" class="node">
+<title>95</title>
+<path fill="#399de5" stroke="black" d="M4416.76,-316.4C4416.76,-316.4 4331,-316.4 4331,-316.4 4325,-316.4 4319,-310.4 4319,-304.4 4319,-304.4 4319,-286.8 4319,-286.8 4319,-280.8 4325,-274.8 4331,-274.8 4331,-274.8 4416.76,-274.8 4416.76,-274.8 4422.76,-274.8 4428.76,-280.8 4428.76,-286.8 4428.76,-286.8 4428.76,-304.4 4428.76,-304.4 4428.76,-310.4 4422.76,-316.4 4416.76,-316.4"/>
+<text text-anchor="start" x="4332.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 41</text>
+<text text-anchor="start" x="4327" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 93&#45;&gt;95 -->
+<g id="edge95" class="edge">
+<title>93-&gt;95</title>
+<path fill="none" stroke="black" d="M4373.88,-360.52C4373.88,-350.2 4373.88,-338.48 4373.88,-327.92"/>
+<polygon fill="black" stroke="black" points="4377.38,-328.15 4373.88,-318.15 4370.38,-328.15 4377.38,-328.15"/>
+</g>
+<!-- 97 -->
+<g id="node98" class="node">
+<title>97</title>
+<path fill="#61b1ea" stroke="black" d="M4597.42,-324.8C4597.42,-324.8 4458.34,-324.8 4458.34,-324.8 4452.34,-324.8 4446.34,-318.8 4446.34,-312.8 4446.34,-312.8 4446.34,-278.4 4446.34,-278.4 4446.34,-272.4 4452.34,-266.4 4458.34,-266.4 4458.34,-266.4 4597.42,-266.4 4597.42,-266.4 4603.42,-266.4 4609.42,-272.4 4609.42,-278.4 4609.42,-278.4 4609.42,-312.8 4609.42,-312.8 4609.42,-318.8 4603.42,-324.8 4597.42,-324.8"/>
+<text text-anchor="start" x="4454.34" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 21.5</text>
+<text text-anchor="start" x="4482.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 243</text>
+<text text-anchor="start" x="4481" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 96&#45;&gt;97 -->
+<g id="edge97" class="edge">
+<title>96-&gt;97</title>
+<path fill="none" stroke="black" d="M4596.37,-360.52C4586.96,-351.74 4576.47,-341.95 4566.59,-332.72"/>
+<polygon fill="black" stroke="black" points="4569.27,-330.44 4559.57,-326.17 4564.49,-335.56 4569.27,-330.44"/>
+</g>
+<!-- 106 -->
+<g id="node107" class="node">
+<title>106</title>
+<path fill="#44a3e7" stroke="black" d="M4724.76,-316.4C4724.76,-316.4 4639,-316.4 4639,-316.4 4633,-316.4 4627,-310.4 4627,-304.4 4627,-304.4 4627,-286.8 4627,-286.8 4627,-280.8 4633,-274.8 4639,-274.8 4639,-274.8 4724.76,-274.8 4724.76,-274.8 4730.76,-274.8 4736.76,-280.8 4736.76,-286.8 4736.76,-286.8 4736.76,-304.4 4736.76,-304.4 4736.76,-310.4 4730.76,-316.4 4724.76,-316.4"/>
+<text text-anchor="start" x="4640.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 63</text>
+<text text-anchor="start" x="4635" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 96&#45;&gt;106 -->
+<g id="edge106" class="edge">
+<title>96-&gt;106</title>
+<path fill="none" stroke="black" d="M4643.83,-360.52C4650.31,-349.64 4657.7,-337.22 4664.24,-326.23"/>
+<polygon fill="black" stroke="black" points="4667.07,-328.32 4669.18,-317.93 4661.06,-324.74 4667.07,-328.32"/>
+</g>
+<!-- 98 -->
+<g id="node99" class="node">
+<title>98</title>
+<path fill="#57ace9" stroke="black" d="M4395.32,-230.4C4395.32,-230.4 4178.44,-230.4 4178.44,-230.4 4172.44,-230.4 4166.44,-224.4 4166.44,-218.4 4166.44,-218.4 4166.44,-184 4166.44,-184 4166.44,-178 4172.44,-172 4178.44,-172 4178.44,-172 4395.32,-172 4395.32,-172 4401.32,-172 4407.32,-178 4407.32,-184 4407.32,-184 4407.32,-218.4 4407.32,-218.4 4407.32,-224.4 4401.32,-230.4 4395.32,-230.4"/>
+<text text-anchor="start" x="4174.44" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">reason__REASON_HomeImp ≤ 0.5</text>
+<text text-anchor="start" x="4241.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 163</text>
+<text text-anchor="start" x="4240" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 97&#45;&gt;98 -->
+<g id="edge98" class="edge">
+<title>97-&gt;98</title>
+<path fill="none" stroke="black" d="M4453.28,-266C4427.53,-256.12 4398.49,-244.99 4371.96,-234.82"/>
+<polygon fill="black" stroke="black" points="4373.55,-231.68 4362.96,-231.37 4371.04,-238.22 4373.55,-231.68"/>
+</g>
+<!-- 103 -->
+<g id="node104" class="node">
+<title>103</title>
+<path fill="#7ebfee" stroke="black" d="M4618.42,-230.4C4618.42,-230.4 4437.34,-230.4 4437.34,-230.4 4431.34,-230.4 4425.34,-224.4 4425.34,-218.4 4425.34,-218.4 4425.34,-184 4425.34,-184 4425.34,-178 4431.34,-172 4437.34,-172 4437.34,-172 4618.42,-172 4618.42,-172 4624.42,-172 4630.42,-178 4630.42,-184 4630.42,-184 4630.42,-218.4 4630.42,-218.4 4630.42,-224.4 4624.42,-230.4 4618.42,-230.4"/>
+<text text-anchor="start" x="4433.34" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">num__DELINQ_missing ≤ 0.5</text>
+<text text-anchor="start" x="4486.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 80</text>
+<text text-anchor="start" x="4481" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 97&#45;&gt;103 -->
+<g id="edge103" class="edge">
+<title>97-&gt;103</title>
+<path fill="none" stroke="black" d="M4527.88,-266.12C4527.88,-258.57 4527.88,-250.27 4527.88,-242.23"/>
+<polygon fill="black" stroke="black" points="4531.38,-242.26 4527.88,-232.26 4524.38,-242.26 4531.38,-242.26"/>
+</g>
+<!-- 99 -->
+<g id="node100" class="node">
+<title>99</title>
+<path fill="#67b4eb" stroke="black" d="M4198.76,-127.6C4198.76,-127.6 4113,-127.6 4113,-127.6 4107,-127.6 4101,-121.6 4101,-115.6 4101,-115.6 4101,-98 4101,-98 4101,-92 4107,-86 4113,-86 4113,-86 4198.76,-86 4198.76,-86 4204.76,-86 4210.76,-92 4210.76,-98 4210.76,-98 4210.76,-115.6 4210.76,-115.6 4210.76,-121.6 4204.76,-127.6 4198.76,-127.6"/>
+<text text-anchor="start" x="4114.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 93</text>
+<text text-anchor="start" x="4109" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 98&#45;&gt;99 -->
+<g id="edge99" class="edge">
+<title>98-&gt;99</title>
+<path fill="none" stroke="black" d="M4246.51,-171.72C4229.67,-159.84 4210.21,-146.12 4193.65,-134.44"/>
+<polygon fill="black" stroke="black" points="4195.71,-131.61 4185.52,-128.71 4191.67,-137.33 4195.71,-131.61"/>
+</g>
+<!-- 100 -->
+<g id="node101" class="node">
+<title>100</title>
+<path fill="#49a5e7" stroke="black" d="M4377.25,-136C4377.25,-136 4240.51,-136 4240.51,-136 4234.51,-136 4228.51,-130 4228.51,-124 4228.51,-124 4228.51,-89.6 4228.51,-89.6 4228.51,-83.6 4234.51,-77.6 4240.51,-77.6 4240.51,-77.6 4377.25,-77.6 4377.25,-77.6 4383.25,-77.6 4389.25,-83.6 4389.25,-89.6 4389.25,-89.6 4389.25,-124 4389.25,-124 4389.25,-130 4383.25,-136 4377.25,-136"/>
+<text text-anchor="start" x="4236.51" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">job__JOB_Office ≤ 0.5</text>
+<text text-anchor="start" x="4267.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 70</text>
+<text text-anchor="start" x="4262" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 98&#45;&gt;100 -->
+<g id="edge100" class="edge">
+<title>98-&gt;100</title>
+<path fill="none" stroke="black" d="M4293.66,-171.72C4295.5,-163.99 4297.53,-155.49 4299.48,-147.27"/>
+<polygon fill="black" stroke="black" points="4302.82,-148.35 4301.73,-137.81 4296.01,-146.73 4302.82,-148.35"/>
+</g>
+<!-- 101 -->
+<g id="node102" class="node">
+<title>101</title>
+<path fill="#42a2e6" stroke="black" d="M4285.76,-41.6C4285.76,-41.6 4200,-41.6 4200,-41.6 4194,-41.6 4188,-35.6 4188,-29.6 4188,-29.6 4188,-12 4188,-12 4188,-6 4194,0 4200,0 4200,0 4285.76,0 4285.76,0 4291.76,0 4297.76,-6 4297.76,-12 4297.76,-12 4297.76,-29.6 4297.76,-29.6 4297.76,-35.6 4291.76,-41.6 4285.76,-41.6"/>
+<text text-anchor="start" x="4201.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 63</text>
+<text text-anchor="start" x="4196" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 100&#45;&gt;101 -->
+<g id="edge101" class="edge">
+<title>100-&gt;101</title>
+<path fill="none" stroke="black" d="M4286.54,-77.36C4279.84,-68.83 4272.48,-59.47 4265.74,-50.9"/>
+<polygon fill="black" stroke="black" points="4268.61,-48.88 4259.68,-43.18 4263.1,-53.2 4268.61,-48.88"/>
+</g>
+<!-- 102 -->
+<g id="node103" class="node">
+<title>102</title>
+<path fill="#e58139" stroke="black" d="M4422.43,-41.6C4422.43,-41.6 4327.33,-41.6 4327.33,-41.6 4321.33,-41.6 4315.33,-35.6 4315.33,-29.6 4315.33,-29.6 4315.33,-12 4315.33,-12 4315.33,-6 4321.33,0 4327.33,0 4327.33,0 4422.43,0 4422.43,0 4428.43,0 4434.43,-6 4434.43,-12 4434.43,-12 4434.43,-29.6 4434.43,-29.6 4434.43,-35.6 4428.43,-41.6 4422.43,-41.6"/>
+<text text-anchor="start" x="4336.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 7</text>
+<text text-anchor="start" x="4323.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 100&#45;&gt;102 -->
+<g id="edge102" class="edge">
+<title>100-&gt;102</title>
+<path fill="none" stroke="black" d="M4331.23,-77.36C4337.93,-68.83 4345.28,-59.47 4352.02,-50.9"/>
+<polygon fill="black" stroke="black" points="4354.66,-53.2 4358.08,-43.18 4349.15,-48.88 4354.66,-53.2"/>
+</g>
+<!-- 104 -->
+<g id="node105" class="node">
+<title>104</title>
+<path fill="#77bced" stroke="black" d="M4548.76,-127.6C4548.76,-127.6 4463,-127.6 4463,-127.6 4457,-127.6 4451,-121.6 4451,-115.6 4451,-115.6 4451,-98 4451,-98 4451,-92 4457,-86 4463,-86 4463,-86 4548.76,-86 4548.76,-86 4554.76,-86 4560.76,-92 4560.76,-98 4560.76,-98 4560.76,-115.6 4560.76,-115.6 4560.76,-121.6 4554.76,-127.6 4548.76,-127.6"/>
+<text text-anchor="start" x="4464.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 75</text>
+<text text-anchor="start" x="4459" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 103&#45;&gt;104 -->
+<g id="edge104" class="edge">
+<title>103-&gt;104</title>
+<path fill="none" stroke="black" d="M4521.1,-171.72C4518.62,-161.29 4515.79,-149.43 4513.26,-138.78"/>
+<polygon fill="black" stroke="black" points="4516.72,-138.22 4511,-129.31 4509.91,-139.84 4516.72,-138.22"/>
+</g>
+<!-- 105 -->
+<g id="node106" class="node">
+<title>105</title>
+<path fill="#e58139" stroke="black" d="M4685.43,-127.6C4685.43,-127.6 4590.33,-127.6 4590.33,-127.6 4584.33,-127.6 4578.33,-121.6 4578.33,-115.6 4578.33,-115.6 4578.33,-98 4578.33,-98 4578.33,-92 4584.33,-86 4590.33,-86 4590.33,-86 4685.43,-86 4685.43,-86 4691.43,-86 4697.43,-92 4697.43,-98 4697.43,-98 4697.43,-115.6 4697.43,-115.6 4697.43,-121.6 4691.43,-127.6 4685.43,-127.6"/>
+<text text-anchor="start" x="4599.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="4586.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 103&#45;&gt;105 -->
+<g id="edge105" class="edge">
+<title>103-&gt;105</title>
+<path fill="none" stroke="black" d="M4561.78,-171.72C4575.66,-160.07 4591.65,-146.63 4605.38,-135.1"/>
+<polygon fill="black" stroke="black" points="4607.47,-137.92 4612.87,-128.81 4602.96,-132.56 4607.47,-137.92"/>
+</g>
+<!-- 108 -->
+<g id="node109" class="node">
+<title>108</title>
+<path fill="#deeefb" stroke="black" d="M5038.69,-419.2C5038.69,-419.2 4919.07,-419.2 4919.07,-419.2 4913.07,-419.2 4907.07,-413.2 4907.07,-407.2 4907.07,-407.2 4907.07,-372.8 4907.07,-372.8 4907.07,-366.8 4913.07,-360.8 4919.07,-360.8 4919.07,-360.8 5038.69,-360.8 5038.69,-360.8 5044.69,-360.8 5050.69,-366.8 5050.69,-372.8 5050.69,-372.8 5050.69,-407.2 5050.69,-407.2 5050.69,-413.2 5044.69,-419.2 5038.69,-419.2"/>
+<text text-anchor="start" x="4915.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 5.4</text>
+<text text-anchor="start" x="4933.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 162</text>
+<text text-anchor="start" x="4932" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 107&#45;&gt;108 -->
+<g id="edge108" class="edge">
+<title>107-&gt;108</title>
+<path fill="none" stroke="black" d="M4978.88,-454.92C4978.88,-447.37 4978.88,-439.07 4978.88,-431.03"/>
+<polygon fill="black" stroke="black" points="4982.38,-431.06 4978.88,-421.06 4975.38,-431.06 4982.38,-431.06"/>
+</g>
+<!-- 121 -->
+<g id="node122" class="node">
+<title>121</title>
+<path fill="#5dafea" stroke="black" d="M5286.25,-419.2C5286.25,-419.2 5149.51,-419.2 5149.51,-419.2 5143.51,-419.2 5137.51,-413.2 5137.51,-407.2 5137.51,-407.2 5137.51,-372.8 5137.51,-372.8 5137.51,-366.8 5143.51,-360.8 5149.51,-360.8 5149.51,-360.8 5286.25,-360.8 5286.25,-360.8 5292.25,-360.8 5298.25,-366.8 5298.25,-372.8 5298.25,-372.8 5298.25,-407.2 5298.25,-407.2 5298.25,-413.2 5292.25,-419.2 5286.25,-419.2"/>
+<text text-anchor="start" x="5145.51" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">job__JOB_Office ≤ 0.5</text>
+<text text-anchor="start" x="5176.05" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 45</text>
+<text text-anchor="start" x="5171" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 107&#45;&gt;121 -->
+<g id="edge121" class="edge">
+<title>107-&gt;121</title>
+<path fill="none" stroke="black" d="M5052.87,-454.8C5078.29,-444.97 5106.94,-433.89 5133.16,-423.76"/>
+<polygon fill="black" stroke="black" points="5134.36,-427.04 5142.42,-420.17 5131.83,-420.51 5134.36,-427.04"/>
+</g>
+<!-- 109 -->
+<g id="node110" class="node">
+<title>109</title>
+<path fill="#87c3ef" stroke="black" d="M4903.25,-324.8C4903.25,-324.8 4766.51,-324.8 4766.51,-324.8 4760.51,-324.8 4754.51,-318.8 4754.51,-312.8 4754.51,-312.8 4754.51,-278.4 4754.51,-278.4 4754.51,-272.4 4760.51,-266.4 4766.51,-266.4 4766.51,-266.4 4903.25,-266.4 4903.25,-266.4 4909.25,-266.4 4915.25,-272.4 4915.25,-278.4 4915.25,-278.4 4915.25,-312.8 4915.25,-312.8 4915.25,-318.8 4909.25,-324.8 4903.25,-324.8"/>
+<text text-anchor="start" x="4762.51" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">job__JOB_Office ≤ 0.5</text>
+<text text-anchor="start" x="4793.05" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 57</text>
+<text text-anchor="start" x="4788" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 108&#45;&gt;109 -->
+<g id="edge109" class="edge">
+<title>108-&gt;109</title>
+<path fill="none" stroke="black" d="M4934.5,-360.52C4920.13,-351.3 4904.03,-340.97 4889.03,-331.35"/>
+<polygon fill="black" stroke="black" points="4890.94,-328.41 4880.64,-325.96 4887.16,-334.31 4890.94,-328.41"/>
+</g>
+<!-- 112 -->
+<g id="node113" class="node">
+<title>112</title>
+<path fill="#f7d6bf" stroke="black" d="M5093.59,-324.8C5093.59,-324.8 4966.17,-324.8 4966.17,-324.8 4960.17,-324.8 4954.17,-318.8 4954.17,-312.8 4954.17,-312.8 4954.17,-278.4 4954.17,-278.4 4954.17,-272.4 4960.17,-266.4 4966.17,-266.4 4966.17,-266.4 5093.59,-266.4 5093.59,-266.4 5099.59,-266.4 5105.59,-272.4 5105.59,-278.4 5105.59,-278.4 5105.59,-312.8 5105.59,-312.8 5105.59,-318.8 5099.59,-324.8 5093.59,-324.8"/>
+<text text-anchor="start" x="4962.17" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 23.5</text>
+<text text-anchor="start" x="4984.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 105</text>
+<text text-anchor="start" x="4978.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 108&#45;&gt;112 -->
+<g id="edge112" class="edge">
+<title>108-&gt;112</title>
+<path fill="none" stroke="black" d="M4994.6,-360.52C4999.06,-352.44 5003.99,-343.51 5008.71,-334.95"/>
+<polygon fill="black" stroke="black" points="5011.63,-336.91 5013.4,-326.47 5005.5,-333.53 5011.63,-336.91"/>
+</g>
+<!-- 110 -->
+<g id="node111" class="node">
+<title>110</title>
+<path fill="#79bded" stroke="black" d="M4745.76,-222C4745.76,-222 4660,-222 4660,-222 4654,-222 4648,-216 4648,-210 4648,-210 4648,-192.4 4648,-192.4 4648,-186.4 4654,-180.4 4660,-180.4 4660,-180.4 4745.76,-180.4 4745.76,-180.4 4751.76,-180.4 4757.76,-186.4 4757.76,-192.4 4757.76,-192.4 4757.76,-210 4757.76,-210 4757.76,-216 4751.76,-222 4745.76,-222"/>
+<text text-anchor="start" x="4661.05" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 51</text>
+<text text-anchor="start" x="4656" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 109&#45;&gt;110 -->
+<g id="edge110" class="edge">
+<title>109-&gt;110</title>
+<path fill="none" stroke="black" d="M4794.2,-266.12C4777.07,-254.13 4757.26,-240.26 4740.48,-228.52"/>
+<polygon fill="black" stroke="black" points="4742.94,-225.97 4732.74,-223.1 4738.93,-231.7 4742.94,-225.97"/>
+</g>
+<!-- 111 -->
+<g id="node112" class="node">
+<title>111</title>
+<path fill="#e58139" stroke="black" d="M4882.43,-222C4882.43,-222 4787.33,-222 4787.33,-222 4781.33,-222 4775.33,-216 4775.33,-210 4775.33,-210 4775.33,-192.4 4775.33,-192.4 4775.33,-186.4 4781.33,-180.4 4787.33,-180.4 4787.33,-180.4 4882.43,-180.4 4882.43,-180.4 4888.43,-180.4 4894.43,-186.4 4894.43,-192.4 4894.43,-192.4 4894.43,-210 4894.43,-210 4894.43,-216 4888.43,-222 4882.43,-222"/>
+<text text-anchor="start" x="4796.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 6</text>
+<text text-anchor="start" x="4783.33" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 109&#45;&gt;111 -->
+<g id="edge111" class="edge">
+<title>109-&gt;111</title>
+<path fill="none" stroke="black" d="M4834.88,-266.12C4834.88,-255.8 4834.88,-244.08 4834.88,-233.52"/>
+<polygon fill="black" stroke="black" points="4838.38,-233.75 4834.88,-223.75 4831.38,-233.75 4838.38,-233.75"/>
+</g>
+<!-- 113 -->
+<g id="node114" class="node">
+<title>113</title>
+<path fill="#efb287" stroke="black" d="M5134.85,-230.4C5134.85,-230.4 4924.92,-230.4 4924.92,-230.4 4918.92,-230.4 4912.92,-224.4 4912.92,-218.4 4912.92,-218.4 4912.92,-184 4912.92,-184 4912.92,-178 4918.92,-172 4924.92,-172 4924.92,-172 5134.85,-172 5134.85,-172 5140.85,-172 5146.85,-178 5146.85,-184 5146.85,-184 5146.85,-218.4 5146.85,-218.4 5146.85,-224.4 5140.85,-230.4 5134.85,-230.4"/>
+<text text-anchor="start" x="4920.92" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.738</text>
+<text text-anchor="start" x="4988.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 91</text>
+<text text-anchor="start" x="4978.33" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 112&#45;&gt;113 -->
+<g id="edge113" class="edge">
+<title>112-&gt;113</title>
+<path fill="none" stroke="black" d="M5029.88,-266.12C5029.88,-258.57 5029.88,-250.27 5029.88,-242.23"/>
+<polygon fill="black" stroke="black" points="5033.38,-242.26 5029.88,-232.26 5026.38,-242.26 5033.38,-242.26"/>
+</g>
+<!-- 118 -->
+<g id="node119" class="node">
+<title>118</title>
+<path fill="#6ab5eb" stroke="black" d="M5316.42,-230.4C5316.42,-230.4 5177.34,-230.4 5177.34,-230.4 5171.34,-230.4 5165.34,-224.4 5165.34,-218.4 5165.34,-218.4 5165.34,-184 5165.34,-184 5165.34,-178 5171.34,-172 5177.34,-172 5177.34,-172 5316.42,-172 5316.42,-172 5322.42,-172 5328.42,-178 5328.42,-184 5328.42,-184 5328.42,-218.4 5328.42,-218.4 5328.42,-224.4 5322.42,-230.4 5316.42,-230.4"/>
+<text text-anchor="start" x="5173.34" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 23.0</text>
+<text text-anchor="start" x="5205.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 14</text>
+<text text-anchor="start" x="5200" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 112&#45;&gt;118 -->
+<g id="edge118" class="edge">
+<title>112-&gt;118</title>
+<path fill="none" stroke="black" d="M5097.05,-266C5119.93,-256.26 5145.69,-245.29 5169.32,-235.23"/>
+<polygon fill="black" stroke="black" points="5170.43,-238.56 5178.26,-231.42 5167.69,-232.12 5170.43,-238.56"/>
+</g>
+<!-- 114 -->
+<g id="node115" class="node">
+<title>114</title>
+<path fill="#e58139" stroke="black" d="M4882.43,-127.6C4882.43,-127.6 4787.33,-127.6 4787.33,-127.6 4781.33,-127.6 4775.33,-121.6 4775.33,-115.6 4775.33,-115.6 4775.33,-98 4775.33,-98 4775.33,-92 4781.33,-86 4787.33,-86 4787.33,-86 4882.43,-86 4882.43,-86 4888.43,-86 4894.43,-92 4894.43,-98 4894.43,-98 4894.43,-115.6 4894.43,-115.6 4894.43,-121.6 4888.43,-127.6 4882.43,-127.6"/>
+<text text-anchor="start" x="4793.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 22</text>
+<text text-anchor="start" x="4783.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 113&#45;&gt;114 -->
+<g id="edge114" class="edge">
+<title>113-&gt;114</title>
+<path fill="none" stroke="black" d="M4969.52,-171.6C4943.37,-159.21 4913.03,-144.83 4887.77,-132.86"/>
+<polygon fill="black" stroke="black" points="4889.55,-129.83 4879.02,-128.71 4886.56,-136.16 4889.55,-129.83"/>
+</g>
+<!-- 115 -->
+<g id="node116" class="node">
+<title>115</title>
+<path fill="#f3c4a3" stroke="black" d="M5134.85,-136C5134.85,-136 4924.92,-136 4924.92,-136 4918.92,-136 4912.92,-130 4912.92,-124 4912.92,-124 4912.92,-89.6 4912.92,-89.6 4912.92,-83.6 4918.92,-77.6 4924.92,-77.6 4924.92,-77.6 5134.85,-77.6 5134.85,-77.6 5140.85,-77.6 5146.85,-83.6 5146.85,-89.6 5146.85,-89.6 5146.85,-124 5146.85,-124 5146.85,-130 5140.85,-136 5134.85,-136"/>
+<text text-anchor="start" x="4920.92" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 0.914</text>
+<text text-anchor="start" x="4988.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 69</text>
+<text text-anchor="start" x="4978.33" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 113&#45;&gt;115 -->
+<g id="edge115" class="edge">
+<title>113-&gt;115</title>
+<path fill="none" stroke="black" d="M5029.88,-171.72C5029.88,-164.17 5029.88,-155.87 5029.88,-147.83"/>
+<polygon fill="black" stroke="black" points="5033.38,-147.86 5029.88,-137.86 5026.38,-147.86 5033.38,-147.86"/>
+</g>
+<!-- 116 -->
+<g id="node117" class="node">
+<title>116</title>
+<path fill="#f7dac5" stroke="black" d="M5008.43,-41.6C5008.43,-41.6 4913.33,-41.6 4913.33,-41.6 4907.33,-41.6 4901.33,-35.6 4901.33,-29.6 4901.33,-29.6 4901.33,-12 4901.33,-12 4901.33,-6 4907.33,0 4913.33,0 4913.33,0 5008.43,0 5008.43,0 5014.43,0 5020.43,-6 5020.43,-12 5020.43,-12 5020.43,-29.6 5020.43,-29.6 5020.43,-35.6 5014.43,-41.6 5008.43,-41.6"/>
+<text text-anchor="start" x="4919.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 54</text>
+<text text-anchor="start" x="4909.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 115&#45;&gt;116 -->
+<g id="edge116" class="edge">
+<title>115-&gt;116</title>
+<path fill="none" stroke="black" d="M5006.52,-77.36C4999.44,-68.74 4991.66,-59.27 4984.56,-50.62"/>
+<polygon fill="black" stroke="black" points="4987.48,-48.66 4978.42,-43.16 4982.07,-53.11 4987.48,-48.66"/>
+</g>
+<!-- 117 -->
+<g id="node118" class="node">
+<title>117</title>
+<path fill="#e58139" stroke="black" d="M5145.43,-41.6C5145.43,-41.6 5050.33,-41.6 5050.33,-41.6 5044.33,-41.6 5038.33,-35.6 5038.33,-29.6 5038.33,-29.6 5038.33,-12 5038.33,-12 5038.33,-6 5044.33,0 5050.33,0 5050.33,0 5145.43,0 5145.43,0 5151.43,0 5157.43,-6 5157.43,-12 5157.43,-12 5157.43,-29.6 5157.43,-29.6 5157.43,-35.6 5151.43,-41.6 5145.43,-41.6"/>
+<text text-anchor="start" x="5056.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 15</text>
+<text text-anchor="start" x="5046.33" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 115&#45;&gt;117 -->
+<g id="edge117" class="edge">
+<title>115-&gt;117</title>
+<path fill="none" stroke="black" d="M5052.9,-77.36C5059.81,-68.83 5067.39,-59.47 5074.33,-50.9"/>
+<polygon fill="black" stroke="black" points="5077.02,-53.14 5080.59,-43.16 5071.57,-48.73 5077.02,-53.14"/>
+</g>
+<!-- 119 -->
+<g id="node120" class="node">
+<title>119</title>
+<path fill="#e4f1fb" stroke="black" d="M5262.76,-127.6C5262.76,-127.6 5177,-127.6 5177,-127.6 5171,-127.6 5165,-121.6 5165,-115.6 5165,-115.6 5165,-98 5165,-98 5165,-92 5171,-86 5177,-86 5177,-86 5262.76,-86 5262.76,-86 5268.76,-86 5274.76,-92 5274.76,-98 5274.76,-98 5274.76,-115.6 5274.76,-115.6 5274.76,-121.6 5268.76,-127.6 5262.76,-127.6"/>
+<text text-anchor="start" x="5181.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="5173" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 118&#45;&gt;119 -->
+<g id="edge119" class="edge">
+<title>118-&gt;119</title>
+<path fill="none" stroke="black" d="M5238.56,-171.72C5235.51,-161.29 5232.05,-149.43 5228.93,-138.78"/>
+<polygon fill="black" stroke="black" points="5232.32,-137.9 5226.16,-129.29 5225.6,-139.87 5232.32,-137.9"/>
+</g>
+<!-- 120 -->
+<g id="node121" class="node">
+<title>120</title>
+<path fill="#399de5" stroke="black" d="M5390.76,-127.6C5390.76,-127.6 5305,-127.6 5305,-127.6 5299,-127.6 5293,-121.6 5293,-115.6 5293,-115.6 5293,-98 5293,-98 5293,-92 5299,-86 5305,-86 5305,-86 5390.76,-86 5390.76,-86 5396.76,-86 5402.76,-92 5402.76,-98 5402.76,-98 5402.76,-115.6 5402.76,-115.6 5402.76,-121.6 5396.76,-127.6 5390.76,-127.6"/>
+<text text-anchor="start" x="5309.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="5301" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 118&#45;&gt;120 -->
+<g id="edge120" class="edge">
+<title>118-&gt;120</title>
+<path fill="none" stroke="black" d="M5278.01,-171.72C5290.63,-160.18 5305.15,-146.89 5317.68,-135.43"/>
+<polygon fill="black" stroke="black" points="5319.85,-138.19 5324.87,-128.86 5315.13,-133.02 5319.85,-138.19"/>
+</g>
+<!-- 122 -->
+<g id="node123" class="node">
+<title>122</title>
+<path fill="#4da7e8" stroke="black" d="M5260.76,-316.4C5260.76,-316.4 5175,-316.4 5175,-316.4 5169,-316.4 5163,-310.4 5163,-304.4 5163,-304.4 5163,-286.8 5163,-286.8 5163,-280.8 5169,-274.8 5175,-274.8 5175,-274.8 5260.76,-274.8 5260.76,-274.8 5266.76,-274.8 5272.76,-280.8 5272.76,-286.8 5272.76,-286.8 5272.76,-304.4 5272.76,-304.4 5272.76,-310.4 5266.76,-316.4 5260.76,-316.4"/>
+<text text-anchor="start" x="5176.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 34</text>
+<text text-anchor="start" x="5171" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 121&#45;&gt;122 -->
+<g id="edge122" class="edge">
+<title>121-&gt;122</title>
+<path fill="none" stroke="black" d="M5217.88,-360.52C5217.88,-350.2 5217.88,-338.48 5217.88,-327.92"/>
+<polygon fill="black" stroke="black" points="5221.38,-328.15 5217.88,-318.15 5214.38,-328.15 5221.38,-328.15"/>
+</g>
+<!-- 123 -->
+<g id="node124" class="node">
+<title>123</title>
+<path fill="#fcf3ec" stroke="black" d="M5469.59,-324.8C5469.59,-324.8 5342.17,-324.8 5342.17,-324.8 5336.17,-324.8 5330.17,-318.8 5330.17,-312.8 5330.17,-312.8 5330.17,-278.4 5330.17,-278.4 5330.17,-272.4 5336.17,-266.4 5342.17,-266.4 5342.17,-266.4 5469.59,-266.4 5469.59,-266.4 5475.59,-266.4 5481.59,-272.4 5481.59,-278.4 5481.59,-278.4 5481.59,-312.8 5481.59,-312.8 5481.59,-318.8 5475.59,-324.8 5469.59,-324.8"/>
+<text text-anchor="start" x="5338.17" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 13.0</text>
+<text text-anchor="start" x="5364.05" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 11</text>
+<text text-anchor="start" x="5354.33" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 121&#45;&gt;123 -->
+<g id="edge123" class="edge">
+<title>121-&gt;123</title>
+<path fill="none" stroke="black" d="M5276.08,-360.4C5295.45,-350.87 5317.22,-340.18 5337.3,-330.3"/>
+<polygon fill="black" stroke="black" points="5338.85,-333.45 5346.28,-325.89 5335.76,-327.16 5338.85,-333.45"/>
+</g>
+<!-- 124 -->
+<g id="node125" class="node">
+<title>124</title>
+<path fill="#e58139" stroke="black" d="M5453.43,-222C5453.43,-222 5358.33,-222 5358.33,-222 5352.33,-222 5346.33,-216 5346.33,-210 5346.33,-210 5346.33,-192.4 5346.33,-192.4 5346.33,-186.4 5352.33,-180.4 5358.33,-180.4 5358.33,-180.4 5453.43,-180.4 5453.43,-180.4 5459.43,-180.4 5465.43,-186.4 5465.43,-192.4 5465.43,-192.4 5465.43,-210 5465.43,-210 5465.43,-216 5459.43,-222 5453.43,-222"/>
+<text text-anchor="start" x="5367.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 6</text>
+<text text-anchor="start" x="5354.33" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 123&#45;&gt;124 -->
+<g id="edge124" class="edge">
+<title>123-&gt;124</title>
+<path fill="none" stroke="black" d="M5405.88,-266.12C5405.88,-255.8 5405.88,-244.08 5405.88,-233.52"/>
+<polygon fill="black" stroke="black" points="5409.38,-233.75 5405.88,-223.75 5402.38,-233.75 5409.38,-233.75"/>
+</g>
+<!-- 125 -->
+<g id="node126" class="node">
+<title>125</title>
+<path fill="#82c1ef" stroke="black" d="M5580.76,-222C5580.76,-222 5495,-222 5495,-222 5489,-222 5483,-216 5483,-210 5483,-210 5483,-192.4 5483,-192.4 5483,-186.4 5489,-180.4 5495,-180.4 5495,-180.4 5580.76,-180.4 5580.76,-180.4 5586.76,-180.4 5592.76,-186.4 5592.76,-192.4 5592.76,-192.4 5592.76,-210 5592.76,-210 5592.76,-216 5586.76,-222 5580.76,-222"/>
+<text text-anchor="start" x="5499.94" y="-205.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="5491" y="-188.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 123&#45;&gt;125 -->
+<g id="edge125" class="edge">
+<title>123-&gt;125</title>
+<path fill="none" stroke="black" d="M5446.56,-266.12C5463.69,-254.13 5483.5,-240.26 5500.29,-228.52"/>
+<polygon fill="black" stroke="black" points="5501.84,-231.7 5508.02,-223.1 5497.82,-225.97 5501.84,-231.7"/>
+</g>
+<!-- 127 -->
+<g id="node128" class="node">
+<title>127</title>
+<path fill="#42a1e6" stroke="black" d="M5837.3,-513.6C5837.3,-513.6 5704.46,-513.6 5704.46,-513.6 5698.46,-513.6 5692.46,-507.6 5692.46,-501.6 5692.46,-501.6 5692.46,-467.2 5692.46,-467.2 5692.46,-461.2 5698.46,-455.2 5704.46,-455.2 5704.46,-455.2 5837.3,-455.2 5837.3,-455.2 5843.3,-455.2 5849.3,-461.2 5849.3,-467.2 5849.3,-467.2 5849.3,-501.6 5849.3,-501.6 5849.3,-507.6 5843.3,-513.6 5837.3,-513.6"/>
+<text text-anchor="start" x="5700.46" y="-497" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DEROG ≤ 0.5</text>
+<text text-anchor="start" x="5725.16" y="-480.2" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 315</text>
+<text text-anchor="start" x="5724" y="-463.4" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 126&#45;&gt;127 -->
+<g id="edge127" class="edge">
+<title>126-&gt;127</title>
+<path fill="none" stroke="black" d="M5770.88,-549.32C5770.88,-541.77 5770.88,-533.47 5770.88,-525.43"/>
+<polygon fill="black" stroke="black" points="5774.38,-525.46 5770.88,-515.46 5767.38,-525.46 5774.38,-525.46"/>
+</g>
+<!-- 144 -->
+<g id="node145" class="node">
+<title>144</title>
+<path fill="#e4f1fb" stroke="black" d="M5964.76,-505.2C5964.76,-505.2 5879,-505.2 5879,-505.2 5873,-505.2 5867,-499.2 5867,-493.2 5867,-493.2 5867,-475.6 5867,-475.6 5867,-469.6 5873,-463.6 5879,-463.6 5879,-463.6 5964.76,-463.6 5964.76,-463.6 5970.76,-463.6 5976.76,-469.6 5976.76,-475.6 5976.76,-475.6 5976.76,-493.2 5976.76,-493.2 5976.76,-499.2 5970.76,-505.2 5964.76,-505.2"/>
+<text text-anchor="start" x="5883.94" y="-488.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="5875" y="-471.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 126&#45;&gt;144 -->
+<g id="edge144" class="edge">
+<title>126-&gt;144</title>
+<path fill="none" stroke="black" d="M5817.42,-549.32C5837.19,-537.22 5860.1,-523.21 5879.41,-511.39"/>
+<polygon fill="black" stroke="black" points="5881.15,-514.43 5887.85,-506.22 5877.49,-508.46 5881.15,-514.43"/>
+</g>
+<!-- 128 -->
+<g id="node129" class="node">
+<title>128</title>
+<path fill="#46a3e7" stroke="black" d="M5837.69,-419.2C5837.69,-419.2 5704.07,-419.2 5704.07,-419.2 5698.07,-419.2 5692.07,-413.2 5692.07,-407.2 5692.07,-407.2 5692.07,-372.8 5692.07,-372.8 5692.07,-366.8 5698.07,-360.8 5704.07,-360.8 5704.07,-360.8 5837.69,-360.8 5837.69,-360.8 5843.69,-360.8 5849.69,-366.8 5849.69,-372.8 5849.69,-372.8 5849.69,-407.2 5849.69,-407.2 5849.69,-413.2 5843.69,-419.2 5837.69,-419.2"/>
+<text text-anchor="start" x="5700.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">mode__DELINQ ≤ 4.5</text>
+<text text-anchor="start" x="5725.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 200</text>
+<text text-anchor="start" x="5724" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 127&#45;&gt;128 -->
+<g id="edge128" class="edge">
+<title>127-&gt;128</title>
+<path fill="none" stroke="black" d="M5770.88,-454.92C5770.88,-447.37 5770.88,-439.07 5770.88,-431.03"/>
+<polygon fill="black" stroke="black" points="5774.38,-431.06 5770.88,-421.06 5767.38,-431.06 5774.38,-431.06"/>
+</g>
+<!-- 141 -->
+<g id="node142" class="node">
+<title>141</title>
+<path fill="#3c9ee5" stroke="black" d="M6066.69,-419.2C6066.69,-419.2 5947.07,-419.2 5947.07,-419.2 5941.07,-419.2 5935.07,-413.2 5935.07,-407.2 5935.07,-407.2 5935.07,-372.8 5935.07,-372.8 5935.07,-366.8 5941.07,-360.8 5947.07,-360.8 5947.07,-360.8 6066.69,-360.8 6066.69,-360.8 6072.69,-360.8 6078.69,-366.8 6078.69,-372.8 6078.69,-372.8 6078.69,-407.2 6078.69,-407.2 6078.69,-413.2 6072.69,-419.2 6066.69,-419.2"/>
+<text text-anchor="start" x="5943.07" y="-402.6" font-family="Helvetica,sans-Serif" font-size="14.00">median__YOJ ≤ 6.5</text>
+<text text-anchor="start" x="5961.16" y="-385.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 115</text>
+<text text-anchor="start" x="5960" y="-369" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 127&#45;&gt;141 -->
+<g id="edge141" class="edge">
+<title>127-&gt;141</title>
+<path fill="none" stroke="black" d="M5843.94,-454.8C5869.28,-444.87 5897.87,-433.68 5923.95,-423.47"/>
+<polygon fill="black" stroke="black" points="5925.13,-426.77 5933.17,-419.86 5922.58,-420.25 5925.13,-426.77"/>
+</g>
+<!-- 129 -->
+<g id="node130" class="node">
+<title>129</title>
+<path fill="#48a4e7" stroke="black" d="M5794.03,-324.8C5794.03,-324.8 5613.73,-324.8 5613.73,-324.8 5607.73,-324.8 5601.73,-318.8 5601.73,-312.8 5601.73,-312.8 5601.73,-278.4 5601.73,-278.4 5601.73,-272.4 5607.73,-266.4 5613.73,-266.4 5613.73,-266.4 5794.03,-266.4 5794.03,-266.4 5800.03,-266.4 5806.03,-272.4 5806.03,-278.4 5806.03,-278.4 5806.03,-312.8 5806.03,-312.8 5806.03,-318.8 5800.03,-324.8 5794.03,-324.8"/>
+<text text-anchor="start" x="5609.73" y="-308.2" font-family="Helvetica,sans-Serif" font-size="14.00">num__DEROG_missing ≤ 0.5</text>
+<text text-anchor="start" x="5658.16" y="-291.4" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 175</text>
+<text text-anchor="start" x="5657" y="-274.6" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 128&#45;&gt;129 -->
+<g id="edge129" class="edge">
+<title>128-&gt;129</title>
+<path fill="none" stroke="black" d="M5750.23,-360.52C5744.25,-352.27 5737.61,-343.12 5731.28,-334.39"/>
+<polygon fill="black" stroke="black" points="5734.17,-332.41 5725.47,-326.37 5728.5,-336.52 5734.17,-332.41"/>
+</g>
+<!-- 140 -->
+<g id="node141" class="node">
+<title>140</title>
+<path fill="#399de5" stroke="black" d="M5921.76,-316.4C5921.76,-316.4 5836,-316.4 5836,-316.4 5830,-316.4 5824,-310.4 5824,-304.4 5824,-304.4 5824,-286.8 5824,-286.8 5824,-280.8 5830,-274.8 5836,-274.8 5836,-274.8 5921.76,-274.8 5921.76,-274.8 5927.76,-274.8 5933.76,-280.8 5933.76,-286.8 5933.76,-286.8 5933.76,-304.4 5933.76,-304.4 5933.76,-310.4 5927.76,-316.4 5921.76,-316.4"/>
+<text text-anchor="start" x="5837.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 25</text>
+<text text-anchor="start" x="5832" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 128&#45;&gt;140 -->
+<g id="edge140" class="edge">
+<title>128-&gt;140</title>
+<path fill="none" stroke="black" d="M5804.17,-360.52C5817.79,-348.87 5833.49,-335.43 5846.97,-323.9"/>
+<polygon fill="black" stroke="black" points="5848.99,-326.78 5854.32,-317.62 5844.44,-321.46 5848.99,-326.78"/>
+</g>
+<!-- 130 -->
+<g id="node131" class="node">
+<title>130</title>
+<path fill="#45a3e7" stroke="black" d="M5762.13,-230.4C5762.13,-230.4 5645.63,-230.4 5645.63,-230.4 5639.63,-230.4 5633.63,-224.4 5633.63,-218.4 5633.63,-218.4 5633.63,-184 5633.63,-184 5633.63,-178 5639.63,-172 5645.63,-172 5645.63,-172 5762.13,-172 5762.13,-172 5768.13,-172 5774.13,-178 5774.13,-184 5774.13,-184 5774.13,-218.4 5774.13,-218.4 5774.13,-224.4 5768.13,-230.4 5762.13,-230.4"/>
+<text text-anchor="start" x="5641.63" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">mode__NINQ ≤ 3.5</text>
+<text text-anchor="start" x="5658.16" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 156</text>
+<text text-anchor="start" x="5657" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 129&#45;&gt;130 -->
+<g id="edge130" class="edge">
+<title>129-&gt;130</title>
+<path fill="none" stroke="black" d="M5703.88,-266.12C5703.88,-258.57 5703.88,-250.27 5703.88,-242.23"/>
+<polygon fill="black" stroke="black" points="5707.38,-242.26 5703.88,-232.26 5700.38,-242.26 5707.38,-242.26"/>
+</g>
+<!-- 135 -->
+<g id="node136" class="node">
+<title>135</title>
+<path fill="#6fb8ec" stroke="black" d="M5983.6,-230.4C5983.6,-230.4 5828.16,-230.4 5828.16,-230.4 5822.16,-230.4 5816.16,-224.4 5816.16,-218.4 5816.16,-218.4 5816.16,-184 5816.16,-184 5816.16,-178 5822.16,-172 5828.16,-172 5828.16,-172 5983.6,-172 5983.6,-172 5989.6,-172 5995.6,-178 5995.6,-184 5995.6,-184 5995.6,-218.4 5995.6,-218.4 5995.6,-224.4 5989.6,-230.4 5983.6,-230.4"/>
+<text text-anchor="start" x="5824.16" y="-213.8" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLAGE ≤ 179.7</text>
+<text text-anchor="start" x="5864.05" y="-197" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 19</text>
+<text text-anchor="start" x="5859" y="-180.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 129&#45;&gt;135 -->
+<g id="edge135" class="edge">
+<title>129-&gt;135</title>
+<path fill="none" stroke="black" d="M5766.41,-266C5787.52,-256.34 5811.26,-245.48 5833.09,-235.5"/>
+<polygon fill="black" stroke="black" points="5834.28,-238.8 5841.92,-231.46 5831.37,-232.43 5834.28,-238.8"/>
+</g>
+<!-- 131 -->
+<g id="node132" class="node">
+<title>131</title>
+<path fill="#48a4e7" stroke="black" d="M5666.52,-136C5666.52,-136 5433.24,-136 5433.24,-136 5427.24,-136 5421.24,-130 5421.24,-124 5421.24,-124 5421.24,-89.6 5421.24,-89.6 5421.24,-83.6 5427.24,-77.6 5433.24,-77.6 5433.24,-77.6 5666.52,-77.6 5666.52,-77.6 5672.52,-77.6 5678.52,-83.6 5678.52,-89.6 5678.52,-89.6 5678.52,-124 5678.52,-124 5678.52,-130 5672.52,-136 5666.52,-136"/>
+<text text-anchor="start" x="5429.24" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">highrisk__LoanValueRatio ≤ 5003.136</text>
+<text text-anchor="start" x="5504.16" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 132</text>
+<text text-anchor="start" x="5503" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 130&#45;&gt;131 -->
+<g id="edge131" class="edge">
+<title>130-&gt;131</title>
+<path fill="none" stroke="black" d="M5656.42,-171.72C5640.76,-162.33 5623.17,-151.78 5606.87,-142"/>
+<polygon fill="black" stroke="black" points="5609.12,-139.26 5598.75,-137.12 5605.52,-145.27 5609.12,-139.26"/>
+</g>
+<!-- 134 -->
+<g id="node135" class="node">
+<title>134</title>
+<path fill="#399de5" stroke="black" d="M5794.76,-127.6C5794.76,-127.6 5709,-127.6 5709,-127.6 5703,-127.6 5697,-121.6 5697,-115.6 5697,-115.6 5697,-98 5697,-98 5697,-92 5703,-86 5709,-86 5709,-86 5794.76,-86 5794.76,-86 5800.76,-86 5806.76,-92 5806.76,-98 5806.76,-98 5806.76,-115.6 5806.76,-115.6 5806.76,-121.6 5800.76,-127.6 5794.76,-127.6"/>
+<text text-anchor="start" x="5710.05" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 24</text>
+<text text-anchor="start" x="5705" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 130&#45;&gt;134 -->
+<g id="edge134" class="edge">
+<title>130-&gt;134</title>
+<path fill="none" stroke="black" d="M5718.67,-171.72C5724.27,-160.95 5730.65,-148.67 5736.31,-137.77"/>
+<polygon fill="black" stroke="black" points="5739.27,-139.66 5740.78,-129.18 5733.06,-136.44 5739.27,-139.66"/>
+</g>
+<!-- 132 -->
+<g id="node133" class="node">
+<title>132</title>
+<path fill="#4ca6e7" stroke="black" d="M5514.76,-41.6C5514.76,-41.6 5429,-41.6 5429,-41.6 5423,-41.6 5417,-35.6 5417,-29.6 5417,-29.6 5417,-12 5417,-12 5417,-6 5423,0 5429,0 5429,0 5514.76,0 5514.76,0 5520.76,0 5526.76,-6 5526.76,-12 5526.76,-12 5526.76,-29.6 5526.76,-29.6 5526.76,-35.6 5520.76,-41.6 5514.76,-41.6"/>
+<text text-anchor="start" x="5426.16" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 112</text>
+<text text-anchor="start" x="5425" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 131&#45;&gt;132 -->
+<g id="edge132" class="edge">
+<title>131-&gt;132</title>
+<path fill="none" stroke="black" d="M5523.47,-77.36C5515.39,-68.65 5506.49,-59.07 5498.39,-50.35"/>
+<polygon fill="black" stroke="black" points="5501.03,-48.04 5491.66,-43.1 5495.9,-52.81 5501.03,-48.04"/>
+</g>
+<!-- 133 -->
+<g id="node134" class="node">
+<title>133</title>
+<path fill="#399de5" stroke="black" d="M5642.76,-41.6C5642.76,-41.6 5557,-41.6 5557,-41.6 5551,-41.6 5545,-35.6 5545,-29.6 5545,-29.6 5545,-12 5545,-12 5545,-6 5551,0 5557,0 5557,0 5642.76,0 5642.76,0 5648.76,0 5654.76,-6 5654.76,-12 5654.76,-12 5654.76,-29.6 5654.76,-29.6 5654.76,-35.6 5648.76,-41.6 5642.76,-41.6"/>
+<text text-anchor="start" x="5558.05" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 20</text>
+<text text-anchor="start" x="5553" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 131&#45;&gt;133 -->
+<g id="edge133" class="edge">
+<title>131-&gt;133</title>
+<path fill="none" stroke="black" d="M5566.81,-77.36C5571.72,-69.11 5577.1,-60.07 5582.07,-51.72"/>
+<polygon fill="black" stroke="black" points="5584.98,-53.67 5587.09,-43.29 5578.97,-50.09 5584.98,-53.67"/>
+</g>
+<!-- 136 -->
+<g id="node137" class="node">
+<title>136</title>
+<path fill="#54aae9" stroke="black" d="M5975.42,-136C5975.42,-136 5836.34,-136 5836.34,-136 5830.34,-136 5824.34,-130 5824.34,-124 5824.34,-124 5824.34,-89.6 5824.34,-89.6 5824.34,-83.6 5830.34,-77.6 5836.34,-77.6 5836.34,-77.6 5975.42,-77.6 5975.42,-77.6 5981.42,-77.6 5987.42,-83.6 5987.42,-89.6 5987.42,-89.6 5987.42,-124 5987.42,-124 5987.42,-130 5981.42,-136 5975.42,-136"/>
+<text text-anchor="start" x="5832.34" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00">median__CLNO ≤ 20.0</text>
+<text text-anchor="start" x="5864.05" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 14</text>
+<text text-anchor="start" x="5859" y="-85.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 135&#45;&gt;136 -->
+<g id="edge136" class="edge">
+<title>135-&gt;136</title>
+<path fill="none" stroke="black" d="M5905.88,-171.72C5905.88,-164.17 5905.88,-155.87 5905.88,-147.83"/>
+<polygon fill="black" stroke="black" points="5909.38,-147.86 5905.88,-137.86 5902.38,-147.86 5909.38,-147.86"/>
+</g>
+<!-- 139 -->
+<g id="node140" class="node">
+<title>139</title>
+<path fill="#e58139" stroke="black" d="M6112.43,-127.6C6112.43,-127.6 6017.33,-127.6 6017.33,-127.6 6011.33,-127.6 6005.33,-121.6 6005.33,-115.6 6005.33,-115.6 6005.33,-98 6005.33,-98 6005.33,-92 6011.33,-86 6017.33,-86 6017.33,-86 6112.43,-86 6112.43,-86 6118.43,-86 6124.43,-92 6124.43,-98 6124.43,-98 6124.43,-115.6 6124.43,-115.6 6124.43,-121.6 6118.43,-127.6 6112.43,-127.6"/>
+<text text-anchor="start" x="6026.94" y="-111" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="6013.33" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Good (0)</text>
+</g>
+<!-- 135&#45;&gt;139 -->
+<g id="edge139" class="edge">
+<title>135-&gt;139</title>
+<path fill="none" stroke="black" d="M5954.88,-171.72C5975.9,-159.51 6000.26,-145.35 6020.72,-133.47"/>
+<polygon fill="black" stroke="black" points="6022.21,-136.64 6029.1,-128.59 6018.69,-130.59 6022.21,-136.64"/>
+</g>
+<!-- 137 -->
+<g id="node138" class="node">
+<title>137</title>
+<path fill="#fcfdff" stroke="black" d="M5884.76,-41.6C5884.76,-41.6 5799,-41.6 5799,-41.6 5793,-41.6 5787,-35.6 5787,-29.6 5787,-29.6 5787,-12 5787,-12 5787,-6 5793,0 5799,0 5799,0 5884.76,0 5884.76,0 5890.76,0 5896.76,-6 5896.76,-12 5896.76,-12 5896.76,-29.6 5896.76,-29.6 5896.76,-35.6 5890.76,-41.6 5884.76,-41.6"/>
+<text text-anchor="start" x="5803.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 5</text>
+<text text-anchor="start" x="5795" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 136&#45;&gt;137 -->
+<g id="edge137" class="edge">
+<title>136-&gt;137</title>
+<path fill="none" stroke="black" d="M5884.21,-77.36C5877.72,-68.83 5870.58,-59.47 5864.05,-50.9"/>
+<polygon fill="black" stroke="black" points="5867.02,-49.02 5858.18,-43.19 5861.46,-53.27 5867.02,-49.02"/>
+</g>
+<!-- 138 -->
+<g id="node139" class="node">
+<title>138</title>
+<path fill="#3fa0e6" stroke="black" d="M6012.76,-41.6C6012.76,-41.6 5927,-41.6 5927,-41.6 5921,-41.6 5915,-35.6 5915,-29.6 5915,-29.6 5915,-12 5915,-12 5915,-6 5921,0 5927,0 5927,0 6012.76,0 6012.76,0 6018.76,0 6024.76,-6 6024.76,-12 6024.76,-12 6024.76,-29.6 6024.76,-29.6 6024.76,-35.6 6018.76,-41.6 6012.76,-41.6"/>
+<text text-anchor="start" x="5931.94" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9</text>
+<text text-anchor="start" x="5923" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 136&#45;&gt;138 -->
+<g id="edge138" class="edge">
+<title>136-&gt;138</title>
+<path fill="none" stroke="black" d="M5927.55,-77.36C5934.05,-68.83 5941.18,-59.47 5947.71,-50.9"/>
+<polygon fill="black" stroke="black" points="5950.31,-53.27 5953.58,-43.19 5944.74,-49.02 5950.31,-53.27"/>
+</g>
+<!-- 142 -->
+<g id="node143" class="node">
+<title>142</title>
+<path fill="#399de5" stroke="black" d="M6049.76,-316.4C6049.76,-316.4 5964,-316.4 5964,-316.4 5958,-316.4 5952,-310.4 5952,-304.4 5952,-304.4 5952,-286.8 5952,-286.8 5952,-280.8 5958,-274.8 5964,-274.8 5964,-274.8 6049.76,-274.8 6049.76,-274.8 6055.76,-274.8 6061.76,-280.8 6061.76,-286.8 6061.76,-286.8 6061.76,-304.4 6061.76,-304.4 6061.76,-310.4 6055.76,-316.4 6049.76,-316.4"/>
+<text text-anchor="start" x="5965.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 57</text>
+<text text-anchor="start" x="5960" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 141&#45;&gt;142 -->
+<g id="edge142" class="edge">
+<title>141-&gt;142</title>
+<path fill="none" stroke="black" d="M6006.88,-360.52C6006.88,-350.2 6006.88,-338.48 6006.88,-327.92"/>
+<polygon fill="black" stroke="black" points="6010.38,-328.15 6006.88,-318.15 6003.38,-328.15 6010.38,-328.15"/>
+</g>
+<!-- 143 -->
+<g id="node144" class="node">
+<title>143</title>
+<path fill="#3fa0e6" stroke="black" d="M6177.76,-316.4C6177.76,-316.4 6092,-316.4 6092,-316.4 6086,-316.4 6080,-310.4 6080,-304.4 6080,-304.4 6080,-286.8 6080,-286.8 6080,-280.8 6086,-274.8 6092,-274.8 6092,-274.8 6177.76,-274.8 6177.76,-274.8 6183.76,-274.8 6189.76,-280.8 6189.76,-286.8 6189.76,-286.8 6189.76,-304.4 6189.76,-304.4 6189.76,-310.4 6183.76,-316.4 6177.76,-316.4"/>
+<text text-anchor="start" x="6093.05" y="-299.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 58</text>
+<text text-anchor="start" x="6088" y="-283" font-family="Helvetica,sans-Serif" font-size="14.00">class = Bad (1)</text>
+</g>
+<!-- 141&#45;&gt;143 -->
+<g id="edge143" class="edge">
+<title>141-&gt;143</title>
+<path fill="none" stroke="black" d="M6046.33,-360.52C6062.79,-348.64 6081.8,-334.92 6097.97,-323.24"/>
+<polygon fill="black" stroke="black" points="6099.84,-326.21 6105.9,-317.52 6095.75,-320.53 6099.84,-326.21"/>
+</g>
+</g>
+</svg>
